@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscribed Articulated Kantharos</title>
+                <editor xml:id="sraj">Sanjana Raj</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>The Archaelogical Museum Ancient Corinth</repository>
+                        <idno>C-1937-3018</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Articulated kantharos with nearly vertical upper body, tapered lip, <material>fine pale pinkish-buff clay, </material> black gaze over all, with two circumference lines set 0.022m and 0.003m below lip 
+                                 <dimensions unit="metre"> <height>.037 </height> <width> .032</width></dimensions>
+                                </support>
+                                <condition>2 Single fragments, upper body to lip, small part of circumference; inscription incomplete</condition>  
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Band below lip</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote> <rs type="graffito"/> Greek
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth</origPlace>
+                            <origDate notBefore="-0400">65 BC</origDate>
+                        </origin>
+                        <provenance type="found" when="1937-02-10"> South Stoa West, Shop XXVII +0.50m to +0.10m above toichobate, Munsell: 10YR 7/4 - 7.5R 7/4
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#me" when="2022-03-23">Transcribed and encoded text (at EpiDoc workshop)</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="C-1937-3018.jpg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>DI<supplied reason="omitted" cert="medium">O</supplied>
+                </ab>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                    <!-- unsure if this is the source -->
+                    <bibl> Card from The Archaelogical Museum Ancient Corinth </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

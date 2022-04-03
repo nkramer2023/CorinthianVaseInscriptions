@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sherd of Large Skyphos with Painted Inscription</title>
+                <editor xml:id="dcaramichael">Duncan Caramichael</editor>
+                <editor xml:id="soppen">Simone Oppen</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="C-1961-22"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Corinth Archaeological Museum, Drawer 155</repository>
+                        <idno>C-1961-22</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Fragment of Attic red-figured<material>
+                                    Reddish clay with shiny black glaze</material><objectType>Skyphos</objectType><dimensions unit="metre"><height>0.031</height><depth max="0.004">0.004</depth></dimensions></support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout></layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Inscription applied with purplish (?)  <rs type="execution" ref="#dipinto">paint</rs>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Attica(?)</origPlace>
+                            <origDate notBefore="-0434" notAfter="-0401" precision="medium" evidence="material-context iconography">Late 5th Century BCE</origDate>
+                        </origin>
+                        <provenance type="found" when="1961-05-03">Agora SW-F. From removal of late wall; basket #6.
+                        </provenance>
+                        <provenance type="observed">Corinth Archaeological Museum. Drawer 155.
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="dcaramichael" when="2022-03-23">Transcribed and encoded text (at EpiDoc workshop)</change>
+            <change who="dcaramichael" when="2022-03-24">Transcribed and encoded descriptive data from card, also edited text formatting.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="C-1961-22.jpg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/><persName type="divine" ref="https://www.wikidata.org/wiki/Q45967"><supplied reason="lost" cert="low">Φρεφάτ</supplied>τα</persName>
+                    <gap reason="lost" extent="unknown" unit="character"></gap>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>Pherephatta (Persephone)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl xml:id="mus-C-1961-22">Corinth Museum index card C-1961-22</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

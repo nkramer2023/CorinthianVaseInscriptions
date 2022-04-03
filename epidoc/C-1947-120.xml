@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fragment of west slope kantharos</title>
+                <editor xml:id="criggs">Carson Riggs</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Dartmouth College</authority>
+                <idno type="filename">C-1947-120</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository><!-- not sure where this is --></repository>
+                        <idno>C-1947-120</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support> Fragment of kantharos with piece of rim preserved.<material>Buff clay, black glaze</material>
+                                    <objectType>Kantharos</objectType><dimensions unit="metre"><!-- GD is 0.048 ?? what is GD --></dimensions></support>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Beginning of graffito
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote>Two horizontal incised lines.</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth</origPlace>
+                            <origDate>Unknown</origDate>
+                        </origin>
+                        <provenance type="found" when="1947-02-16"> South Stoa E, Well III
+                        </provenance>
+                        <provenance type="observed"> <!-- Not sure, but in Hell. Drawer 30 -->
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#criggs" when="2022-03-23">Transcribed and encoded text (at EpiDoc workshop)</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="C-1947-120.jpg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/>ΑΛΥ<gap reason="illegible" quantity="1" unit="character"/>
+                </ab>
+            </div>
+            <div type="bibliography">
+                <listBibl> <bibl xml:id="mus-C-1947-120">Archaeological index card C-1947-120</bibl></listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

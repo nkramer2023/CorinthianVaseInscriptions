@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arretine Bowl Base</title>
+                <editor xml:id="shu"> Longmei Shu </editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename">C-1976-26</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Corinth Museum</repository>
+                        <idno>NB 187</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material>fine, hard fired light red clay</material>
+                                    <objectType>bowl</objectType> <dimensions unit="metre"><width>0.05</width></dimensions> etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth?</origPlace>
+                            <origDate>April 28 1976</origDate>
+                        </origin>
+                        <provenance type="found"> Forum Southwest. Grid 73 A
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#me" when="2022-03-23">Transcribed and encoded text (at EpiDoc workshop)</change>
+            <change who="#gbobard" when="2022-03-24">proofreading</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="C-1976-26.jpg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="la">
+                <ab>
+                   <lb n="1"/> ΠΤΑ
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transport Amphora Corinthian Type B</title>
+                <editor xml:id="astaub">Abigail Staub</editor>
+                <editor xml:id="cdifabio">Christina DiFabio</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>The Archaeological Museum - Ancient Corinth</repository>
+                        <idno>C-1977-128</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support> <material>Unglazed ceramic of coarse greenish clay, Munsell 5Y 7/3 Pale Yellow. Traces of reddish paint (?) around rim and neck.</material>
+                                  <objectType>Transport Amphora Corinthian Type B with Graffito</objectType>2 Twelve joining fragments preserve part of neck and rim, one handle, part of shoulder of amphora. Fragmentary Transport/Storage Amphora Corinth Type B. Wide sloping shoulder, wide and short neck with vertical profile, outward thickened rim flaring convexly to flattened lip which slopes inward. One of two vertical handles preserved. Oval in section. Attached to neck below rim, and to shoulder. <dimensions unit="metre"><height>0.137</height><depth> 0.007</depth><dim type="diameter">00.150 (rim)</dim></dimensions></support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Graffito on amphora shoulder of vessel underneath handle. Trace of other hastae underneath.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote><name>ΚΥΝΟ<unclear>N</unclear></name>
+                            <height>height unrecorded</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origDate notBefore="-0500" notAfter="-0401" precision="medium">5th century BCE</origDate>
+                        </origin>
+                        <provenance type="found">Forum Southwest, Grid 68-67:D, Fill in robbing trench, elevation 080.320-080.226
+                        </provenance>
+                        <provenance type="observed">The Archaeological Museum Ancient Corinth
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#astaub" when="2022-03-23">Transcribed and encoded text (at EpiDoc workshop)</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url=""/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>Greek text here
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <p>Archaeological Museum Ancient Corinth, Index Card; see also Hesperia 1981, pg. 454, no. 21</p>
+            </div>
+        </body>
+    </text>
+</TEI>

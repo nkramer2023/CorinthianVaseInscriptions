@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscribed articulated kantharos</title>
+                <editor xml:id="criggs">Carson Riggs</editor><editor xml:id="mskotheim">Mali Skotheim</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Dartmouth College</authority>
+                <idno type="filename">C-1934-397</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository><!-- I'm not sure where this is --></repository>
+                        <idno>C-1934-397</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Large articulated kantharos with straight tapering body, fine rounded lip, two thin vertical strap handles on upper body to 00.005 m. below lip.
+                                    <material> Fine pale pinkish buff clay, slightly pinker than 10YR 7/4</material>
+                                    <dimensions>
+                                        <height>00.058</height>
+                                         <depth>00.014 at lip</depth>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Graffito in handle zone between two circumference lines</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Graffito
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote>Black glaze over all. Painted band between two incised circumference lines on face opposite graffito. Running ivy with incised and white-painted stem, red clay-slip petals, white dots</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth</origPlace>
+                            <origDate notBefore="-0330" notAfter="-0300" cert="medium">330-300 BCE</origDate>
+                        </origin>
+                        <provenance type="found" when="1934-03-13"> Forum Southeast South Stoa. 32:N. Shop I, loose fill continuing 0.80 m. below toichobate (and below floor). Q-S:7-10. So-called deposit in Shop I.
+                        </provenance>
+                        <provenance type="observed" when="2017"><!-- not sure where it was, but in Hell. Shelf 14 -->
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#criggs" when="2022-03-23">Transcribed and encoded text (at EpiDoc workshop)</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="C-1934-397.jpg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/>ωπαρ ἐλπιδὰς φανεῖς
+                </ab>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl xml:id="mus-C-1934-397">Archaeological Index card C-1934-397</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

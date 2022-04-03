@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gaza Amphora with Dipinto</title>
+                <editor xml:id="ssuson">Serena Suson</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="C-1948-270A"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>museum/archive</repository>
+                        <idno>C-1948-270A</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support> Amphora with a long cylindrical body tapering slightly to a rounded toe. two small rounded vertical strap handles attached at upper body and neck.   <material> Coarse hackly pink clay with rare, large rounded and subrounded sphercal white inclusions, frequent very small subrounded platy brown inclusions and rare small angular tabular yellow inclusions with rare small to medium voids</material>/>
+                                    and <objectType>amphora</objectType>/> information, 
+                                  
+                                    </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>surface from lower handle attachment to top of toe covered in letters and illegible symbols in several registers </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote> red paint <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Palestine</origPlace>
+                            <origDate notBefore-custom="0095" notAfter="0600" notAfter-custom="0700">95–Late Antique (5th to 6th c. A.C.)</origDate>
+                        </origin>
+                        <provenance type="found"> Burial next to mouth of South Stoa well XIX (aka Well 1948-3) 
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="ssuson" when="2022-03-24">Transcribed and encoded text (at EpiDoc workshop)</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://drive.google.com/file/d/1vq1SFQSgg_Im16F6oPGVat-wu4xAg9Cp/view?usp=sharing"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/>ΗΓΕΣΙΕΣ
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

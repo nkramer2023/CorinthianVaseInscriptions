@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sherd of shallow lekane type 1 with graffito</title>
+                <editor xml:id= "soppen">Simone Oppen</editor>
+                <editor xml:id="aguszkowski">August Guszkowski</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename">C-1978-251</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>The Archaeological Museum - Ancient Corinth</repository>
+                        <idno>inventory number</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Moderately well-compacted <material>coarse clay</material> with numerous coarse and fine grey and red inclusions,
+                                    <objectType>shallow lekane, type 1</objectType>, with two holes pierced through the rim. <height>00.059m</height> </support>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Incised on rim between holes before firing, point toward interior</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth: Forum SW</origPlace>
+                            <origDate notBefore="-0510" notAfter="-0323" precision="medium">Classical</origDate>
+                        </origin>
+                        <provenance type="found">Destruction debris within building IV</provenance>
+                        <provenance type="observed">The Archaeological Museum - Ancient Corinth</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#aguszkowski" when="2022-03-23">Transcribed and encoded text (at EpiDoc workshop)</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                     <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/>A
+                     <gap reason="lost" extent="unknown" unit="character"/>
+                </ab>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Articulated kantharos with painted inscription</title>
+                <editor xml:id="parplatan" role="editor-in-chief">Paraskevi Platanou</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Dartmouth College</authority>
+                <idno type="filename">C-47-268</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>South Stoa Well XIV</repository>
+                        <idno>C-47-268</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Many fragments of body and 1 handle missing.Dark buff clay,black glaze overall,badly worn<material/>
+                                    and <objectType/>kantharos</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Two incised lines forming band below lip.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Greek uppercase letters
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#parplatan" when="2022-03-25">Transcribed and encoded text (at EpiDoc workshop)</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="C-1947-268.jpeg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/>ασφαλειας
+                </ab>
+            </div>
+            <div type="translation" xml:lang="en">
+                <p>of security</p>
+            </div>
+            <div type="bibliography">
+                <p>Corinth VII, III 77475, p.85</p>
+            </div>
+        </body>
+    </text>
+</TEI>

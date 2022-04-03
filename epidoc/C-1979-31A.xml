@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Attic White Ground Black-Figure Lekythos</title>
+                <editor xml:id="dcaramichael">Duncan Caramichael</editor>
+                <editor xml:id="soppen">Simone Oppen</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="C-1979-31A"></idno>          
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>The Archaeological Muesum - Ancient Corinth</repository>
+                        <idno>C-1979-31A</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>White ground black-figure<material>Fine hard pinkish-buff clay. Black glaze with metallic sheen over thin cream slip. Added purple and white.</material>
+                                    <objectType>Lekythos</objectType><dimensions unit="metre"><height>0.093</height><depth>0.004</depth></dimensions></support>
+                                <!-- The index card also lists "D00.083 under dimensions. We assumed that T00.004 means thickness/depth becuase a depth of 8.3 cm would be odd, so what would D mean? -->
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout></layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Nonsense inscription in field below shoulder.
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Attica</origPlace>
+                            <origDate notBefore="-0510" notAfter="-0490" precision="medium">Archaic. Late 6th or Early 5th Century BCE</origDate>
+                        </origin>
+                        <provenance type="found">Corinth, Forum Southwest. Fifth century dumped fill under South Sota
+                        </provenance>
+                        <provenance type="observed">The Archaeological Museum - Ancient Corinth
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="dcaramichael" when="2022-03-23">Transcribed and encoded text and descriptive data from card (at EpiDoc workshop).</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="C-1979-31A-1.jpg"/>
+        <graphic url="C-1979-31A-2.jpg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>Α<gap reason="ellipsis" extent="1" unit="character"></gap>Ι
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl xml:id="mus-C-1979-31A">Corinth Museum Index Card C-1971-31A</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

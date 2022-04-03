@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Corinthian B Transport Sherd: Neck, Dipinto</title>
+                <editor xml:id="bireen">Bansharee Ireen</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Dartmouth College</authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository><!-- unsure --></repository>
+                        <idno>C-1937-333</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Fragment of Corinthian amphora neck
+                                    <material></material>
+                                    <objectType></objectType> 
+                                    <dimensions unit="metre">
+                                        <height></height>
+                                        <depth></depth>
+                                    </dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Inscription includes a red<rs type="execution" ref="#dipinto">dipinto</rs>of Δ and a second letter E.</layout><!-- uncertain about if this information should go into handNote -->
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote></handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth</origPlace>
+                            <origDate><!-- unsure, card doesn't seem to say --></origDate>
+                        </origin>
+                        <provenance type="found"> Agora South Central. Well at b-c:19-20. Grid 50:L Deposit Index Well 1937-1</provenance>
+                        <provenance type="observed">Corinth Archaeological Museum?</provenance> <!-- unsure -->
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#bireen" when="2022-03-23">Transcribed and encoded text (at EpiDoc workshop)</change>
+            <change who="#bireen" when="2022-03-24">Added metadata (at EpiDoc workshop)</change>
+            <change who="#bireen" when="2022-03-24">Edited/updated metadata</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="C-1937-333.jpeg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>Δ<supplied reason="lost">E</supplied>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>The second letter E was perhaps painted over.</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>Corinthian Archaeological Museum; indexcard C-1937-333</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

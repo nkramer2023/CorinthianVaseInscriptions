@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Shallow basin type 1 with graffito</title>
+                <editor xml:id="aguszkowski">August Guszkowski</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename">C-1978-252</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>The Archaeological Museum - Ancient Corinth</repository>
+                        <idno>C-1978-252</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>moderately well-compacted <material>coarse clay</material>
+                                    with moderate admixture coarse and fine grey inclusions, <objectType>shallow lekane, type 1</objectType> 
+                                    <height>00.061m</height></support>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Greek, incised in rim before firing. 
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth, Forum SW</origPlace>
+                            <origDate>1978-05-19</origDate>
+                        </origin>
+                        <provenance type="found"> "Floor" fill to west of robbing trench
+                        </provenance>
+                        <provenance type="observed">The Archaeological Museum - Ancient Corinth
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#aguszkowski" when="2022-03-23">Transcribed and encoded Corinthian vase inscription (at EpiDoc workshop)</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="C-1978-252.jpg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grk">
+                <ab>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/>Ε
+                </ab>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Attic Skyphos Bottom with Graffito</title>
+                <editor xml:id="mburkhart">Meg Burkhart</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename">C-1971-679</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Corinth Museum</repository>
+                        <idno>C-1971-679</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Skyphos with flat undersurface, ring foot now missing, steep straight flaring body.<material>Fine light red clay fired to gray in places.</material>
+                                    and <objectType>Skyphos fragment </objectType> information, <dimensions unit="metres"><width>.033</width><height>0.046<!--this is actually the max length I believe??? .046 is at the diagonal I think!--></height></dimensions>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout></layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Graffito on undersurface just within ring of foot. <height/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Attica?</origPlace>
+                            <origDate notBefore="-0599" notAfter="-0401" cert="medium">6th or 5th century B.C.</origDate>
+                        </origin>
+                        <provenance type="found" when="1971-06-01"> Forum Southwest
+                        </provenance>
+                        <provenance type="observed"/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#me" when="2022-03-23">Transcribed and encoded text (at EpiDoc workshop)</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="C-1971-679.jpg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"></gap><hi rend="ligature">αν</hi>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p></p>
+            </div>
+            <div type="translation">
+                <p>Not usefully translatable.</p>
+            </div>
+            <div type="commentary">
+                <p></p>
+            </div>
+            <div type="bibliography">
+                <p></p>
+            </div>
+        </body>
+    </text>
+</TEI>

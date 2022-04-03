@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Attic Black-Gaze Cup with Graffito</title>
+                <editor xml:id="sraj">Sanjana Raj</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>The Archaelogical Museum Ancient Corinth</repository>
+                        <idno>C-1997-004</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support> <material>Fine well-levigated clay</material>, fired largely gray, to red-brown below interior surface, with occasional tiny white inclusions. Open vessel with shallow flaring profile. Lustrous black gaze over all.
+                                <dimensions unit="metre"> <depth>.002 </depth> <dim> maximum possible dimension .034</dim></dimensions> <!-- unsure of what MPD signifies in the card -->
+                                </support>
+                                <condition>2 Single body fragment</condition>  
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote> <rs type="graffito"/> Greek, parts of four letters along break: LΕΟM with slant-bar epsilon </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Attica: Forum Southwest</origPlace>
+                            <origDate  precision="medium" evidence="material-context">63 CE</origDate>
+                        </origin>
+                        <!-- unsure where the munsell information should be provided, doesn't seem to be an appropriate tag -->
+                        <provenance type="found" when="1997-04-17">  Forum Southwest. General fill, several layers above cement floor. Munsell: 7.5YR 5/1.5 </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above) </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#me" when="2022-03-23">Transcribed and encoded text (at EpiDoc workshop)</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="C-1997-4.jpg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/><unclear>L</unclear><unclear>E</unclear><unclear>O</unclear><unclear>Μ</unclear>
+                </ab>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <!-- unsure if this is the source -->
+                    <bibl> Card from The Archaelogical Museum Ancient Corinth </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Coarse Sherd with Dipinto</title>
+                <editor xml:id="cmdonnelly">Cassandra M. Donnelly></editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename">C-1947-286</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>None indicated, The Archaeological Museum of Corinth?</repository>
+                        <idno>C-1947-286</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Course sherd
+                                    <material>Pale yellow clay, unglazed</material>with brown deposit on interior
+                                    and <objectType>sherd</objectType><dimensions unit="metre"><height>0.135</height>
+                                        <!--gives maximum measurement rather than height strictly speaking--></dimensions>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>single ligature floating in space</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>dipinto<height>not provided</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>not provided</origPlace>
+                            <origDate>not provided</origDate>
+                        </origin>
+                        <provenance type="found"> South Stoa, Well XIV <add>-8.10 - 10.55, fill 1, use</add> 
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#cmdonnelly" when="2022-03-25">Transcribed and encoded text (at EpiDoc workshop)</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="C-1947-286.jpg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc" cert="low">
+                <ab>
+                    <lb n="1"/><hi rend="ligature" cert="low">
+                        <unclear cert="low">ι</unclear>ρ</hi>
+                    <!--I have marked the ligature as cert low becuase this is perhaps a monogram? 
+                        the iota for the first sign is probably a terrible guess based on limited knowledge
+                        of the epichoric alphabet lol, alternately a leftfacing sigma? 
+                        do we know this is a contemporary sherd? -->
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+
