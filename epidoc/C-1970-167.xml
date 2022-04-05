@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oinochoe Shoulder Fragment with Graffito</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority/>
+                    <idno type="filename"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                            <idno>C-1970-167</idno>
+                    </msIdentifier>
+                    <physDesc>
+                    <objectDesc>
+                        <supportDesc>
+                            <support>
+                                Seven joining sherds from top of body and shoulder, with small part of base of neck
+                                <material/>
+                                <objectType/>
+                                <dimensions/>
+                            </support>
+                        </supportDesc>
+                        <layoutDesc>
+                            <layout>Sloping field, with reddish-brown glaze, "awkwardly scratched" graffito</layout>
+                        </layoutDesc>
+                    </objectDesc>
+                    <handDesc>
+                        <handNote>
+                            Seven letters, possibly Corinthian alphabet, possibly poorly written Attic-Ionic
+                            <height/>
+                        </handNote>
+                    </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum Central</origPlace>
+                            <origDate>Unknown</origDate>
+                        </origin>
+                        <provenance type="found">3 meters North of poros steps of phase 2 of Sacred Spring; Elevation 75.37-.33</provenance>
+                        <provenance type="observed">ASCSA Corinth Basement</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://ibb.co/fp1ZsfV"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                <lb n="1"/>
+                 <gap reason="illegible" quantity="1" unit="character"/>μσσον
+                </ab>
+            </div>
+            <div type="apparatus"/>
+            <div type="translation"/>
+            <div type="commentary">
+                <p>Unintelligible writing</p>
+            </div>
+            <div type="bibliography">
+                <p>Williams, Charles K., and Joan E. Fisher. “Corinth, 1970: Forum Area.” Hesperia: The Journal of the American School of Classical Studies at Athens, vol. 40, no. 1, The American School of Classical Studies at Athens, 1971, p.31, #33 https://doi.org/10.2307/147401.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
