@@ -1,2 +1,2 @@
 # CorinthianVaseInscriptions
-Forum area
+Vase Inscriptions from the Forum area

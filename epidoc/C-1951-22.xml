@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sherd of large skyphos with painted inscription</title>
+                <editor xml:id="soppen">Simone Oppen</editor>
+                <editor xml:id="tchang" role="amanuensis" when="2022-03-24">Tiffany Chang</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename">C-1951-22</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>museum/archive</repository>
+                        <idno>C-1951-22</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Fragment of Attic red-figured
+                                   <material> Reddish clay </material> with shiny black glaze
+                                    and <objectType> Skyphos</objectType>
+                                    <dimensions unit="metre">
+                                        <height>0.031</height>
+                                        <depth max="0.004">0.004</depth>
+                                    </dimensions>
+                                    </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Inscription applied with purplish (?) <rs type ="execution" ref="#dipinto">paint</rs>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Attica?</origPlace>
+                            <origDate notBefore="-0434" notAfter="-0401" precision="medium" evidence="material-context iconography">Late 5th century BCE</origDate>
+                        </origin>
+                        <provenance type="found" when="1961-05-03"> Forum SW-F. From removal of late wall, basket #6.
+                        </provenance>
+                        <provenance type="observed" when="2020">Corinth Archaeological Museum; Drawer 155. <!--date?-->
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#me" when="2022-03-23">Transcribed and encoded text and descriptive data from card (at EpiDoc workshop)</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="C-1951-22.jpeg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/><persName type = "divine" ref="https://www.wikidata.org/wiki/Q45967"><supplied reason="lost" cert="low">ΦερεφΦατ</supplied>τα<gap reason="lost" extent="unknown" unit="character"/></persName>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl xml:id="mus-C-1961-22">Corinth Museum index card C-1961-22</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

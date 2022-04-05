@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Corinthian Type B Transport Amphora, Dipinto</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C-1937-2074A, B</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>vase incscription (dipinto)<material/>
+                                    and <objectType/> <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout> two letters, central text </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Body fragments of Corinthian Type B Transport Amphora with grooved ridge decorations along the upper fragment.  
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                             <origPlace>Forum South Central.</origPlace>
+                            <origDate></origDate>
+                        </origin>
+                        <provenance type="found"> Well at I-J: 24-25 Deposit Index Well 1937-3</provenance>
+                        <provenance type="observed"> ASCSA Corinth Museum Basement; Drawer 272
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://ascsa.net/image?type=preview&amp;id=Corinth%3AImage%3Abw%204651"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>ΠΙ
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p></p>
+            </div>
+            <div type="translation">
+                <p></p>
+            </div>
+            <div type="commentary">
+                <p>Other fragmentary and incomplete letters present (illegible). </p>
+            </div>
+            <div type="bibliography">
+                <p>Campbell, Mary-Thorne. “A Well of the Black-Figured Period at Corinth.” Hesperia: The Journal of the American School of Classical Studies at Athens, vol. 7, no. 4, 1938, pp. 604, https://doi.org/146573.
+</p>
+            </div>
+        </body>
+    </text>
+</TEI>
