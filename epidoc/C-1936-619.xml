@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Panthenaic Amphora</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C-1936-619</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>vase inscription <material/>Fine reddish yellow clay
+                                    and <objectType/>  <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>one line, text along right edge </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Dipinto in brown glaze along ridge edge, reading top to bottom.Body fragment of large closed vase, decorated in black glazed except for reserved band along it. Break where part of painted inscription. </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum Northeast</origPlace>
+                            <origDate>3rd c. BCE</origDate>
+                        </origin>
+                        <provenance type="found"> 
+                        </provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 157
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://ascsa.net/CacheIcons//Corinth/Photos/negatives/year_roll/1985_006/1985_st_006_007.jpg.icon.jpg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>ΝΑΘ
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p></p>
+            </div>
+            <div type="translation">
+                <p>NATH</p>
+            </div>
+            <div type="commentary">
+                <p>Part of the Panathenaic prize inscription, "TON ATHENATEN ATHLON." Compare form to letters on reverse left of C 1946 51.</p>
+            </div>
+            <div type="bibliography">
+                <p>Brownlee, Ann Blair. “Attic Black Figure from Corinth: III.” Hesperia: The Journal of the American School of Classical Studies at Athens, vol. 64, no. 3, Sept. 1995, pp. 337–82, https://doi.org/148431.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

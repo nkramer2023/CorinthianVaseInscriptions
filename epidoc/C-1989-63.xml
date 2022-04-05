@@ -1,0 +1,79 @@
+<TEI xml:space="preserve" xml:lang="en"
+ xml:base="ex-epidoctemplate.xml" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Koan Amphora with Dipinto</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority/>
+                <idno type="filename"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>The Archaeological Museum - Ancient Corinth</repository>
+                        <idno>C-1989-63</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material> Moderately coarse clay fired red at core, pale buff at surface, with dense amount of fine to coarser red inclusions, mica, few fine black inclusions between
+                                        5YR 6/6 and 2.5YR 6/6 (core) Ca. 2.5Y 8/3 (surface)
+                                        </material> 
+                                       
+                                        <objectType>Koan trasnport/storage amphora with nearly cylindrical upper body, steeply sloping shoulder turning into cylindrical neck, rolled rim, 
+                                        oval mouth. 2 vertical double-rolled handles rising vertically from mid shoulder and turning down slightly to upper part of neck</objectType>
+                                    </p>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Dipinto in black paint on center of neck between Handles: API Co-1370</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote> 
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Kos, Forum Southwest </origPlace>
+                            <origDate>Context archaic to 146, 100 BC + early Roman? Piece Hellenistic</origDate>
+                        </origin>
+                        <provenance type="found"> Grid 73:A, Fill in well from -4.41 to -6.85m below east rim and from tunnel (upper fill), deposit in Well 1976-1
+                        </provenance>
+                        <provenance type="observed"> Amphora Building; Bay 1; Shelf 1
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="blob:https://tiffanyhyunkyung.wordpress.com/9006d8d9-3211-4597-b305-ed45299e14f6"/> 
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>API 
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p></p>
+            </div>
+            <div type="translation">
+                <p></p>
+            </div>
+            <div type="commentary">
+                <p></p>
+            </div>
+            <div type="bibliography">
+                <p></p>
+            </div>
+        </body>
+    </text>
+</TEI>

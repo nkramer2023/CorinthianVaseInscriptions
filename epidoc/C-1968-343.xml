@@ -1,0 +1,79 @@
+<TEI xml:space="preserve" xml:lang="en"
+ xml:base="ex-epidoctemplate.xml" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Miniature Perirrhanterion or Thymaterion Base Fragment With Dipinto</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority/>
+                <idno type="filename"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C-1968-343</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>  </material> 
+               
+                                        <objectType>Single corner-base fragment, broken left and right and top. Hard, pale, yellowish-buff fabric, shading towards pink at core; well-levigated but with a few large inclusions. Slipped and polished outside, with elaborate painted decoration; inside slipped and smoothed. 
+                                        Viewer's-left front corner of base of miniature perirrhanterior or thymeterion (taking inscribed face as front); rectangular portion of base handmade and attached to wheelmade circular portion. 
+                                        Decoration and dipinto: rectangular base, vertical face (front side): outlined cruedly in much-faded and flaked black with very crude single dotted-fret pattern within; a single red verticle stroke at extreme corner; upper platform: red, with much flaked black corner palmette outlined
+                                        in red; circular rising portion: torus in 2 degrees and rising panel to antoher offset in at least 2 degrees; outer edge of upper torus black (worn and faled) and upper edge red (somewhat flaked)</objectType>
+                                    </p>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>one line of text in a curved arc around the torus edge </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote> outer edge of upper torus black (worn and flaked) and upper edge red (somewhat flaked); located on panel above
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth, Greece, Drain, red pebbly top strosis</origPlace>
+                            <origDate></origDate>
+                        </origin>
+                        <provenance type="found"> Lot 5197 (4th C.BL)
+                        </provenance>
+                        <provenance type="observed"> ACSCA Museum Basement, Drawer 221
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://ascsa.net/image?type=preview&amp;id=Corinth%3AImage%3Adigital%202017%201573"/> 
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>DAMATR[---]
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>RS Stroud: not Demeter</p>
+            </div>
+            <div type="translation">
+                <p>"to Demeter"</p>
+            </div>
+            <div type="commentary">
+                <p></p>
+            </div>
+            <div type="bibliography">
+                <p></p>
+            </div>
+        </body>
+    </text>
+</TEI>

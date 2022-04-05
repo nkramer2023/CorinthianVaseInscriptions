@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hole-Mouth Jar with Graffito</title>
+                <editor xml:id="me">Tiffany Chang</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="C-1977-289"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C-1977-289</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>graffito<material/>
+                                    and <objectType/> jar</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>One symbol and scattered marks</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Symbol below lip before firing, vertical stroke crossed by horizontal stroke, fragment of second horizontal stroke parallel to the first. 
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Forum Southwest</origPlace>
+                            <origDate>4th c. BCE</origDate>
+                        </origin>
+                        <provenance type="found">Unknown
+                        </provenance>
+                        <provenance type="observed">Museum Basement; Drawer 277
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#tchang" when="2022-04-04">Transcribed and encoded text </change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://drive.google.com/file/d/1OD6Jq7NmV3MI6LwYpfp6fg05qkc51jiu/view?usp=sharing"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/><g type = ">"/><g type ="---|--"/>
+                    <lb n="2"/><g type ="circle"/> <g type = "circle"/>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                      <listBibl>
+                    <bibl xml:id="mus-C-1977-289">Corinth Museum index card C-1977-289</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

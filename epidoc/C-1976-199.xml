@@ -1,0 +1,77 @@
+<TEI xml:space="preserve" xml:lang="en"
+ xml:base="ex-epidoctemplate.xml" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Amphora Shoulder: Dipinto</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority/>
+                <idno type="filename"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C 1976 199</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material> Coarse gritty red clay, white slip, red paint </material> 
+                                        
+                                        <objectType>Single fragment proken all around. Body sher from storage amphora (?) preserving steep shoulder tapering to cylindrical neck. White slip over exterior. Dipinto in red at top of shoulder.</objectType>
+                                    </p>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Single line of text, 4 letters</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>  
+                                Black inclusions along rim.
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Forum SW</origPlace>
+                            <origDate></origDate>
+                        </origin>
+                        <provenance type="found"> Grid 72-3: A-B. Roman Cellar Fill, 81.858 to 81.496
+                        </provenance>
+                        <provenance type="observed"> ASCSA Corinth Museum Basement, Drawer 276
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://tiffanyhyunkyung.files.wordpress.com/2022/01/screen-shot-2022-01-28-at-3.39.19-pm.png?w=504"/> 
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>ΙΑΣΑ
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p></p>
+            </div>
+            <div type="translation">
+                <p></p>
+            </div>
+            <div type="commentary">
+                <p>Necking at base of neck form an ampora as lot 406 #1 and C.65.368. First letter unclear?</p>
+            </div>
+            <div type="bibliography">
+                <p></p>
+            </div>
+        </body>
+    </text>
+</TEI>
