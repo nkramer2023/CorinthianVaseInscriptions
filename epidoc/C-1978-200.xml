@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>C-1978-200</title>
+                <editor xml:id="tchang">Tiffany Chang</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="C-1978-200"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C-1978-200</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Graffito <material/>
+                                    and <objectType/> transport amphora</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>trace of single letter</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>possible grafitto on upper surface of rim
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Forum Southwest</origPlace>
+                            <origDate>Early 5th c. BCE</origDate>
+                        </origin>
+                        <provenance type="found"> Grid 67:C. Punic Amphora Building Pottery Fill Under
+                            First Poros Floor. 
+                        </provenance>
+                        <provenance type="observed">Museum Basement; Bay 91; Shelf 2
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#tchang" when="2022-04-10">Transcribed and encoded text </change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://drive.google.com/file/d/125jEtTLm57iFj4RIyTBYVS2J9OiH0FJl/view?usp=sharing"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/><unclear>η</unclear>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p></p>
+            </div>
+            <div type="translation">
+                <p></p>
+            </div>
+            <div type="commentary">
+                <p></p>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                             <bibl xml:id="mus-C-1978-200">Corinth Museum index card C-1978-200</bibl>
+                              <bibl>Williams, Charles Kaufman. “Corinth, 1978: Forum Southwest.” Hesperia: The Journal of the American School of Classical Studies at Athens, vol. 48, no. 2, 1979, p. 123, https://doi.org/10.2307/147769. Accessed 11 Apr. 2022.</bibl>
+                      </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>
