@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Attic Black - Figure Olpe</title>
+                <editor xml:id="tchang">Tiffany Chang</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="C-1979-19"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C-1979-19</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>graffito <material/>
+                                    and <objectType/> olpe</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>5 letters</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Graffito runs vertically to left of panel. 
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Forum Southwest</origPlace>
+                            <origDate>5th c. BCE</origDate>
+                        </origin>
+                        <provenance type="found"> Grid 62:B in dumped fill under South Stoa Colonnade. 
+                        </provenance>
+                        <provenance type="observed">
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#me" when="2022-03-23">Transcribed and encoded text </change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://drive.google.com/file/d/1-EsfF2na2BLWIYgr1ALjeDMh_6Gq_VvT/view?usp=sharing"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>ΚΡΑΝΒ<gap reason="lost" extent="unknown" unit="character"/>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p></p>
+            </div>
+            <div type="translation">
+                <p></p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                  <listBibl>
+                             <bibl xml:id="mus-C-1979-19">Corinth Museum index card C-1979-19</bibl>
+                      </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>
