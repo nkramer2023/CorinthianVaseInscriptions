@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Imported Jug Fragment (Egyptian?)</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C 1938 208</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                Fragment preserves base and lower part of body, pale green glaze except for bottom.
+                                    <material/><objectType/><dimensions/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Graffito on pinkish-clay unglazed base</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Figure Eight/Infinity figure, displayed as upright (figure-eight); flat top and slanted bottom.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum North Central</origPlace>
+                            <origDate>XXXX</origDate>
+                        </origin>
+                        <provenance type="found">Grid d-E:123-127</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://ascsa.net/CacheIcons//Corinth/Photos/negatives/year_roll/1991_058/1991_st_058_031A.jpg.icon.jpg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <g type="8"/>
+                </ab>
+            </div>
+            <div type="apparatus"><ab></ab></div>
+            <div type="translation"><ab></ab></div>
+            <div type="commentary">
+                <ab>Unknown, commentary on card ("Egyptian?") proves original finders were as confused as present encoders</ab>
+            </div>
+            <div type="bibliography"><ab></ab></div>
+        </body>
+    </text>
+</TEI>
