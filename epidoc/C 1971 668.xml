@@ -5,66 +5,64 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kotyle Foot with Graffito</title>
+                <title>C 1971 668</title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
-                    <idno type="filename"/>
+                    <idno type="filename">C 1971 668</idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                            <idno>C-1975-46</idno>
+                            <idno>C 1971 668</idno>
                     </msIdentifier>
                     <physDesc>
                     <objectDesc>
                         <supportDesc>
                             <support>
-                                Single fragment preserving foot and lower body
-                                <material/>
-                                <objectType/>
-                                <dimensions/>
+                                <p>Neck and shoulder of a cooking amphora</p>
+                                <material>Hard cooking clay</material>
+                                <objectType>Small Amphora</objectType>
+                                <dimensions>
+                                    <height>.15</height>
+                                    <dim type="diameter">.065</dim>
+                                </dimensions>
                             </support>
                         </supportDesc>
                         <layoutDesc>
-                            <layout>Black glaze, with five letters etched onto interior rim</layout>
+                            <layout/>
                         </layoutDesc>
                     </objectDesc>
                     <handDesc>
-                        <handNote>
-                            Five Attic-Ionic letters take up most of upward-curving interior rim.
-                            <height/>
-                        </handNote>
+                        <handNote>No writing</handNote>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum Southwest</origPlace>
-                            <origDate>Unknown</origDate>
+                            <origPlace>Macedonia</origPlace>
+                            <origDate>mid-3rd century BCE</origDate>
                         </origin>
-                        <provenance type="found">Grid 74:D; Elevation 82.188-81.192</provenance>
-                        <provenance type="observed">ASCA Corinth Basement; Basket 62, Lot 75-38</provenance>
+                        <provenance type="found">
+                            <p>Forum Southwest</p><p>Pottery deposit in drain east of Building II, east wall</p><p>Grid Nos.: 54:K 55:L</p><p>Deposit Name: Drain 1971-001</p>
+                        </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/Th9v7kR"/>
+        <graphic url="https://ascsa.net/id/corinth/image/bw%201997%20031%2013?q=C%201971%20668&amp;t=&amp;v=list&amp;sort=&amp;s=1"></graphic>
+        <graphic url="https://ascsa.net/id/corinth/image/bw%201998%20002%2005?q=C%201971%20668&amp;t=&amp;v=list&amp;sort=&amp;s=2"></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
-                <ab>
-                <lb n="1"/>
-                σοτερ
-                </ab>
+                <ab/> 
             </div>
             <div type="apparatus">
             </div>
             <div type="translation">
-                <p>Savior</p>
             </div>
             <div type="commentary">
             </div>
@@ -73,3 +71,4 @@
         </body>
     </text>
 </TEI>
+

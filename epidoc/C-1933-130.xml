@@ -5,41 +5,37 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Local Roman Stamped Plate with Graffito</title>
+                <title>Attic White-Ground Black-Figure Lekythos</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
-                <idno type="filename"></idno>
+                <idno type="filename"/>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1976 35</idno>
+                        <idno>C-1933-130</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>
-                                    Stamped plate with torus ring foot, glazed, .166 diameter.
-                                    <material/><objectType/><dimensions/>
-                                </support>
+                                <support>Lekythos with cylindrical body, fragment of edge of shoulder turning inward. Black-figure painting of two horse heads over a hoplite shield. <material/><objectType/><dimensions/></support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Stamp on center of interior floor, .011 long by .005 wide <p>Graffito on exterior lower body, scratched after firing</p></layout>
+                                <layout>Six letters (two Iotas, epsilon, eta, chi/lambda, sigma)</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Stamp in Roman characters, four letters <p>Ambiguous alphabet of graffito, three letters</p></handNote>
+                            <handNote>Black-figure with added lettering</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum Southwest</origPlace>
-                            <origDate>Roman</origDate>
+                            <origPlace>Corinth Forum South</origPlace>
+                            <origDate>Unknown</origDate>
                         </origin>
-                        <provenance type="found">Grid 73 ZZ-A, debris over floor of Roman Cellar Building; Elevation 82.662 to 82.549</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="found">South Stoa; Deposit in Shop XXXII; Fill 1933-2</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -47,25 +43,30 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/bNGpZYX"/>
-        <graphic url="https://ibb.co/m8wzxVv"/>
+        <graphic url="https://ascsa.net/id/corinth/image/bw%201965%20114%2004&amp;q=references%3A%22Corinth%3AObject%3AC%201933%20130%22&amp;t=&amp;v=icons&amp;p=1&amp;s=3&amp;sort=rating%20desc%2C%20sort%20asc&amp;size=full"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                <lb n="1"/>
-                CELE
-                <lb n="2"/>
-                    αν
+                   <lb n="1"/>
+                   ΙΕΗΙΧΣ
                 </ab>
             </div>
-            <div type="apparatus"></div>
-            <div type="translation"></div>
-            <div type="commentary"></div>
+            <div type="apparatus">
+            </div>
+            <div type="translation">
+                <p>Unknown. Possible name.</p>
+            </div>
+            <div type="commentary">
+                <p>Due to its placement near a scene of a chariot, probably a name-tag. Unknown if this is an epichoric alphabet or not, since sigma could be Corinthian Iota. Chi could be lambda.</p>
+            </div>
             <div type="bibliography">
-                <ab>Corinth Vol. 18, Iss. 2 p.58 #79 <lb n="1"/>Hesperia 1980, p. 149, #41</ab>
             </div>
         </body>
     </text>
 </TEI>
+
+
+
+

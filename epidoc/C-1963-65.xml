@@ -5,41 +5,37 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Local Roman Stamped Plate with Graffito</title>
+                <title>Arretine Plate Fragment - Stamped</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
-                <idno type="filename"></idno>
+                <idno type="filename"/>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1976 35</idno>
+                        <idno>C-1963-65</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>
-                                    Stamped plate with torus ring foot, glazed, .166 diameter.
-                                    <material/><objectType/><dimensions/>
-                                </support>
+                                <support>Two joining fragments of foot and floor.<material/><objectType/><dimensions/></support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Stamp on center of interior floor, .011 long by .005 wide <p>Graffito on exterior lower body, scratched after firing</p></layout>
+                                <layout>Stamp on the foot, and graffito on the base.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Stamp in Roman characters, four letters <p>Ambiguous alphabet of graffito, three letters</p></handNote>
+                            <handNote>Stamp on the foot, and etched graffito on the base.</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace>Corinth Forum Southwest</origPlace>
-                            <origDate>Roman</origDate>
+                            <origDate>Unknown</origDate>
                         </origin>
-                        <provenance type="found">Grid 73 ZZ-A, debris over floor of Roman Cellar Building; Elevation 82.662 to 82.549</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="found">East Road (Section D; Basket #89)</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -47,25 +43,31 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/bNGpZYX"/>
-        <graphic url="https://ibb.co/m8wzxVv"/>
+        <graphic url="https://ibb.co/Kz1vY5Y"/>
+        <graphic url="https://ibb.co/Jj5c1bM"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                <lb n="1"/>
-                CELE
-                <lb n="2"/>
-                    αν
+                   <lb n="1"/>
+                   CORIN
+                   <lb n="2"/>
+                    A
                 </ab>
             </div>
-            <div type="apparatus"></div>
-            <div type="translation"></div>
-            <div type="commentary"></div>
+            <div type="apparatus">
+            </div>
+            <div type="translation">
+            </div>
+            <div type="commentary">
+                <p>Backwards Nu/N</p>
+            </div>
             <div type="bibliography">
-                <ab>Corinth Vol. 18, Iss. 2 p.58 #79 <lb n="1"/>Hesperia 1980, p. 149, #41</ab>
             </div>
         </body>
     </text>
 </TEI>
+
+
+
