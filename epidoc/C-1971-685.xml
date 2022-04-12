@@ -5,66 +5,64 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kotyle Foot with Graffito</title>
+                <title>Corinthian B Amphora Neck</title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
-                    <idno type="filename"/>
+                    <idno type="filename">C 1971 685</idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                            <idno>C-1975-46</idno>
+                            <idno>C 1971 685</idno>
                     </msIdentifier>
                     <physDesc>
                     <objectDesc>
                         <supportDesc>
                             <support>
-                                Single fragment preserving foot and lower body
-                                <material/>
-                                <objectType/>
-                                <dimensions/>
+                                <material>Fine, off-white clay</material>
+                                <objectType>Transport/storage amphora</objectType>
+                                <dimensions>
+                                    <height>.135</height>
+                                </dimensions>
                             </support>
                         </supportDesc>
                         <layoutDesc>
-                            <layout>Black glaze, with five letters etched onto interior rim</layout>
+                            <layout>White canvas</layout>
                         </layoutDesc>
                     </objectDesc>
                     <handDesc>
-                        <handNote>
-                            Five Attic-Ionic letters take up most of upward-curving interior rim.
-                            <height/>
-                        </handNote>
+                        <handNote/>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum Southwest</origPlace>
-                            <origDate>Unknown</origDate>
+                            <origPlace>Corinth, Forum Southwest</origPlace>
+                            <origDate>Classical</origDate>
                         </origin>
-                        <provenance type="found">Grid 74:D; Elevation 82.188-81.192</provenance>
-                        <provenance type="observed">ASCA Corinth Basement; Basket 62, Lot 75-38</provenance>
+                        <provenance type="found"> Unknown findspot; "good things from bad places" </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/Th9v7kR"/>
+        <graphic url="photograph of text or monument"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
                 <lb n="1"/>
-                σοτερ
+                B P <gap reason="lost" extent="unknown" unit="character"/>
+                <lb n="2"/>
+                Ψ or Υ
                 </ab>
             </div>
             <div type="apparatus">
             </div>
             <div type="translation">
-                <p>Savior</p>
             </div>
             <div type="commentary">
             </div>
@@ -73,3 +71,4 @@
         </body>
     </text>
 </TEI>
+

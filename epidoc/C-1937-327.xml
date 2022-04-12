@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Oinochoe Shoulder Fragment with Graffito</title>
+                <title>[Corinthian B] Transport Amphora with Dipinto</title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
@@ -15,35 +15,35 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                            <idno>C-1970-167</idno>
+                            <idno>C-1937-327</idno>
                     </msIdentifier>
                     <physDesc>
                     <objectDesc>
                         <supportDesc>
                             <support>
-                                Seven joining sherds from top of body and shoulder, with small part of base of neck
+                                4 joining fragments, part of neck
                                 <material/>
                                 <objectType/>
                                 <dimensions/>
                             </support>
                         </supportDesc>
                         <layoutDesc>
-                            <layout>Sloping field, with reddish-brown glaze, "awkwardly scratched" graffito</layout>
+                            <layout>Beige slip, dipinto in red paint</layout>
                         </layoutDesc>
                     </objectDesc>
                     <handDesc>
                         <handNote>
-                            Seven letters, possibly Corinthian alphabet, possibly poorly written Attic-Ionic
+                            Two letters, one clearly an Alpha, one perhaps a sideways alpha
                             <height/>
                         </handNote>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum Central</origPlace>
+                            <origPlace>Corinth Forum South Cnetral</origPlace>
                             <origDate>Unknown</origDate>
                         </origin>
-                        <provenance type="found">3 meters North of poros steps of phase 2 of Sacred Spring; Elevation 75.37-.33</provenance>
+                        <provenance type="found">Well b-c:19-20; Grid 50:L</provenance>
                         <provenance type="observed">ASCSA Corinth Basement</provenance>
                     </history>
                 </msDesc>
@@ -51,24 +51,25 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/fp1ZsfV"/>
+        <graphic url="https://ascsa.net/CacheIcons//Corinth/Photos/negatives/year_roll/1979_024/1979_st_024_012.jpg.icon.jpg"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
                 <lb n="1"/>
-                <choice><orig cert="low">hισ<gap reason="illegible" quantity="1" unit="character"/>ον</orig><reg cert="low">ἱμεσλον</reg></choice>
+                <hi rend="reversed">α</hi>α
                 </ab>
             </div>
             <div type="apparatus"/>
             <div type="translation"/>
             <div type="commentary">
-                <p>Unintelligible writing</p>
+                <p>Shorthand of some sort, possibly of capacity, contents, ownership, etc</p>
             </div>
             <div type="bibliography">
-                <p>Williams, Charles K., and Joan E. Fisher. “Corinth, 1970: Forum Area.” Hesperia: The Journal of the American School of Classical Studies at Athens, vol. 40, no. 1, The American School of Classical Studies at Athens, 1971, p.31, #33 https://doi.org/10.2307/147401.</p>
+                <p>Koehler, C. G., Corinthian A and B transport amphoras. Princeton University Pr., 1979, p.328, #695</p>
             </div>
         </body>
     </text>
 </TEI>
+

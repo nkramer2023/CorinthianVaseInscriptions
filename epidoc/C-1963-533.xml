@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Oinochoe Shoulder Fragment with Graffito</title>
+                <title>Coarse Sherd with Graffito</title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
@@ -15,60 +15,62 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                            <idno>C-1970-167</idno>
+                            <idno>C-1963-533</idno>
                     </msIdentifier>
                     <physDesc>
                     <objectDesc>
                         <supportDesc>
                             <support>
-                                Seven joining sherds from top of body and shoulder, with small part of base of neck
+                                Sherd, broken on all sides
                                 <material/>
                                 <objectType/>
                                 <dimensions/>
                             </support>
                         </supportDesc>
                         <layoutDesc>
-                            <layout>Sloping field, with reddish-brown glaze, "awkwardly scratched" graffito</layout>
+                            <layout>Two letters written underneath combed band</layout>
                         </layoutDesc>
                     </objectDesc>
                     <handDesc>
                         <handNote>
-                            Seven letters, possibly Corinthian alphabet, possibly poorly written Attic-Ionic
+                            R/Rho or B/Beta with an extended bottom line. A/Alpha or D/Delta next to it
                             <height/>
                         </handNote>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum Central</origPlace>
+                            <origPlace>Corinth Forum Southwest</origPlace>
                             <origDate>Unknown</origDate>
                         </origin>
-                        <provenance type="found">3 meters North of poros steps of phase 2 of Sacred Spring; Elevation 75.37-.33</provenance>
-                        <provenance type="observed">ASCSA Corinth Basement</provenance>
+                        <provenance type="found">Section J; Room B, area below fill E; elevation 84.929-.688</provenance>
+                        <provenance type="observed">ASCSA Corinth Basement, Basket 7</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/fp1ZsfV"/>
+        <graphic url="photograph of text or monument"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
                 <lb n="1"/>
-                <choice><orig cert="low">hισ<gap reason="illegible" quantity="1" unit="character"/>ον</orig><reg cert="low">ἱμεσλον</reg></choice>
+                R<unclear>A</unclear>
                 </ab>
             </div>
-            <div type="apparatus"/>
-            <div type="translation"/>
+            <div type="apparatus">
+            </div>
+            <div type="translation">
+                <p>ra</p>
+            </div>
             <div type="commentary">
-                <p>Unintelligible writing</p>
             </div>
             <div type="bibliography">
-                <p>Williams, Charles K., and Joan E. Fisher. “Corinth, 1970: Forum Area.” Hesperia: The Journal of the American School of Classical Studies at Athens, vol. 40, no. 1, The American School of Classical Studies at Athens, 1971, p.31, #33 https://doi.org/10.2307/147401.</p>
             </div>
         </body>
     </text>
 </TEI>
+

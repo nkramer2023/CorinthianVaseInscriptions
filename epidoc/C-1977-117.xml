@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Storage Pithos with Graffito</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C-1977-117</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Many joining fragments, giving complete rim and much of body, about one-half of the pithos preserved.<material/><objectType/><dimensions/></support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Graffito etch above decoration on shoulder.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Large letters (especially first Alpha) take up most of rim.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origDate>Unknown</origDate>
+                        </origin>
+                        <provenance type="found">Coarse Ware deposit below decomposed mudbrick (Grid 68:D; Elevation 080.772-080.344</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://ibb.co/Kz1vY5Y"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                   <lb n="1"/>
+                   ΑΑΙΗ
+                </ab>
+            </div>
+            <div type="apparatus">
+            </div>
+            <div type="translation">
+            </div>
+            <div type="commentary">
+                <p>Perhaps a notation of capacity</p>
+            </div>
+            <div type="bibliography">
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+

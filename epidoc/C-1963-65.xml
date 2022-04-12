@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arretine Plate Fragment - Stamped</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C-1963-65</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Two joining fragments of foot and floor.<material/><objectType/><dimensions/></support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Stamp on the foot, and graffito on the base.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Stamp on the foot, and etched graffito on the base.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origDate>Unknown</origDate>
+                        </origin>
+                        <provenance type="found">East Road (Section D; Basket #89)</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://ibb.co/Kz1vY5Y"/>
+        <graphic url="https://ibb.co/Jj5c1bM"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                   <lb n="1"/>
+                   CORIN
+                   <lb n="2"/>
+                    A
+                </ab>
+            </div>
+            <div type="apparatus">
+            </div>
+            <div type="translation">
+            </div>
+            <div type="commentary">
+                <p>Backwards Nu/N</p>
+            </div>
+            <div type="bibliography">
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

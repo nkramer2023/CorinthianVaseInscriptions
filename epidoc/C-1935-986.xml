@@ -5,70 +5,72 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Oinochoe Shoulder Fragment with Graffito</title>
+                <title>Corinthian B Transport Amphora</title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
-                    <idno type="filename"/>
+                    <idno type="filename">C 1935 986</idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                            <idno>C-1970-167</idno>
+                            <idno>C 1935 986</idno>
                     </msIdentifier>
                     <physDesc>
                     <objectDesc>
                         <supportDesc>
                             <support>
-                                Seven joining sherds from top of body and shoulder, with small part of base of neck
-                                <material/>
-                                <objectType/>
-                                <dimensions/>
+                                Corinthian B transport amphora with short, wide neck, a thickened rim with a rounded profile flaring outward, triangular in section, broad flat lip. Vertical strap handle attached to top neck.
+                                <material>Fine, well-fired and compacted pale, pinkish buff clay</material>
+                                <objectType>Transport Amphora</objectType>
+                                <dimensions>
+                                    <height>.118</height>
+                                </dimensions>
                             </support>
                         </supportDesc>
                         <layoutDesc>
-                            <layout>Sloping field, with reddish-brown glaze, "awkwardly scratched" graffito</layout>
+                            <layout/>
                         </layoutDesc>
                     </objectDesc>
                     <handDesc>
                         <handNote>
-                            Seven letters, possibly Corinthian alphabet, possibly poorly written Attic-Ionic
-                            <height/>
+                            Illegible
                         </handNote>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum Central</origPlace>
+                            <origPlace>Corinth, Forum West</origPlace>
                             <origDate>Unknown</origDate>
                         </origin>
-                        <provenance type="found">3 meters North of poros steps of phase 2 of Sacred Spring; Elevation 75.37-.33</provenance>
-                        <provenance type="observed">ASCSA Corinth Basement</provenance>
+                        <provenance type="found"> Well under edge of western stairs </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/fp1ZsfV"/>
+        <graphic url="photograph of text or monument"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
                 <lb n="1"/>
-                <choice><orig cert="low">hισ<gap reason="illegible" quantity="1" unit="character"/>ον</orig><reg cert="low">ἱμεσλον</reg></choice>
+                 <g type="cross">+</g>   
                 </ab>
             </div>
-            <div type="apparatus"/>
-            <div type="translation"/>
+            <div type="apparatus">
+            </div>
+            <div type="translation">
+            </div>
             <div type="commentary">
-                <p>Unintelligible writing</p>
+                <p>Symbol type is near a cross</p>
             </div>
             <div type="bibliography">
-                <p>Williams, Charles K., and Joan E. Fisher. “Corinth, 1970: Forum Area.” Hesperia: The Journal of the American School of Classical Studies at Athens, vol. 40, no. 1, The American School of Classical Studies at Athens, 1971, p.31, #33 https://doi.org/10.2307/147401.</p>
             </div>
         </body>
     </text>
 </TEI>
+

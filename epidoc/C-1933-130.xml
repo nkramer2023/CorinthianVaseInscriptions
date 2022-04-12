@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Attic White-Ground Black-Figure Lekythos</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C-1933-130</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Lekythos with cylindrical body, fragment of edge of shoulder turning inward. Black-figure painting of two horse heads over a hoplite shield. <material/><objectType/><dimensions/></support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Six letters (two Iotas, epsilon, eta, chi/lambda, sigma)</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Black-figure with added lettering</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum South</origPlace>
+                            <origDate>Unknown</origDate>
+                        </origin>
+                        <provenance type="found">South Stoa; Deposit in Shop XXXII; Fill 1933-2</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://ascsa.net/id/corinth/image/bw%201965%20114%2004&amp;q=references%3A%22Corinth%3AObject%3AC%201933%20130%22&amp;t=&amp;v=icons&amp;p=1&amp;s=3&amp;sort=rating%20desc%2C%20sort%20asc&amp;size=full"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                   <lb n="1"/>
+                   ΙΕΗΙΧΣ
+                </ab>
+            </div>
+            <div type="apparatus">
+            </div>
+            <div type="translation">
+                <p>Unknown. Possible name.</p>
+            </div>
+            <div type="commentary">
+                <p>Due to its placement near a scene of a chariot, probably a name-tag. Unknown if this is an epichoric alphabet or not, since sigma could be Corinthian Iota. Chi could be lambda.</p>
+            </div>
+            <div type="bibliography">
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+

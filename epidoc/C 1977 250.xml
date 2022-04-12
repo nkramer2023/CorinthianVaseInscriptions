@@ -5,69 +5,73 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Oinochoe Shoulder Fragment with Graffito</title>
+                <title>C 1977 250</title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
-                    <idno type="filename"/>
+                    <idno type="filename">C 1977 250</idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                            <idno>C-1970-167</idno>
+                            <idno>C 1977 250</idno>
                     </msIdentifier>
                     <physDesc>
                     <objectDesc>
                         <supportDesc>
                             <support>
-                                Seven joining sherds from top of body and shoulder, with small part of base of neck
-                                <material/>
-                                <objectType/>
-                                <dimensions/>
+                                <p>Fragment of lower neck</p>
+                                <material>Relatively fine, medium hard-fired reddish yellow fabric</material>
+                                <objectType>transport amphora</objectType>
+                                <dimensions>
+                                    <height>.070</height>
+                                    <width>.093</width>
+                                </dimensions>
                             </support>
                         </supportDesc>
                         <layoutDesc>
-                            <layout>Sloping field, with reddish-brown glaze, "awkwardly scratched" graffito</layout>
+                            <layout>Reddish-yellow clay</layout>
                         </layoutDesc>
                     </objectDesc>
                     <handDesc>
                         <handNote>
-                            Seven letters, possibly Corinthian alphabet, possibly poorly written Attic-Ionic
-                            <height/>
+                            <p>Two letter dipinto red paint</p>
                         </handNote>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum Central</origPlace>
-                            <origDate>Unknown</origDate>
+                            <origPlace>Probably Corinth</origPlace>
+                            <origDate>5th century BCE</origDate>
                         </origin>
-                        <provenance type="found">3 meters North of poros steps of phase 2 of Sacred Spring; Elevation 75.37-.33</provenance>
-                        <provenance type="observed">ASCSA Corinth Basement</provenance>
+                        <provenance type="found">
+                            <p>Forum Southwest</p><p>Building V, amphora packing against East-West stone drain</p><p>Grid Nos.: 69-70:C</p>
+                        </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/fp1ZsfV"/>
+        <graphic url="photograph of text or monument"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
                 <lb n="1"/>
-                <choice><orig cert="low">hισ<gap reason="illegible" quantity="1" unit="character"/>ον</orig><reg cert="low">ἱμεσλον</reg></choice>
+                <unclear>ΛΙ</unclear>
                 </ab>
             </div>
-            <div type="apparatus"/>
-            <div type="translation"/>
+            <div type="apparatus">
+            </div>
+            <div type="translation">
+            </div>
             <div type="commentary">
-                <p>Unintelligible writing</p>
+                <p>Two lines at crossing diagonals indicate a possible Λ, followed by a third, separate straight line that may be an Ι</p>
             </div>
             <div type="bibliography">
-                <p>Williams, Charles K., and Joan E. Fisher. “Corinth, 1970: Forum Area.” Hesperia: The Journal of the American School of Classical Studies at Athens, vol. 40, no. 1, The American School of Classical Studies at Athens, 1971, p.31, #33 https://doi.org/10.2307/147401.</p>
             </div>
         </body>
     </text>
