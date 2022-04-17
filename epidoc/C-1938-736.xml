@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Coarse Base Fragment with Dipinto</title>
+                <title>Attic Kylix Rim with Graffito</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,30 +15,30 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1948 79</idno>
+                        <idno>C 1938 736</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                Wall fragment
+                                Fragment of cup with offset flaring rim, round lip
                                     <material/><objectType/><dimensions/>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Yellowish slip</layout>
+                                <layout>Grafftio over black glaze, written along base of rim; written upside-down</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Two rows of three letters</handNote>
+                            <handNote>Two full letters (alpha, iota) and one fragmentary letter (mu?)</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum South Stoa</origPlace>
-                            <origDate>DATE</origDate>
+                            <origPlace>Corinth Forum South Central</origPlace>
+                            <origDate>5th c. or earlier, context 4th c.</origDate>
                         </origin>
-                        <provenance type="found">South Stoa, Well XIX</provenance>
+                        <provenance type="found">Stratum h-j:1-2; Elevation .079.750</provenance>
                         <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
                     </history>
                 </msDesc>
@@ -47,16 +47,14 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ascsa.net/id/corinth/object/c%201948%2079?q=C-1948-79&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
+        <graphic url="https://ascsa.net/CacheIcons//Corinth/Photos/negatives/year_roll/1992_031/1992_st_031_004.jpg.icon.jpg"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
                     <lb n="1"/>
-                    <gap reason="illegible" quantity="1" unit="character"/>κωλ
-                    <lb n="2"/>
-                    αθα
+                    αι<unclear>μ</unclear>
                 </ab>
             </div>
             <div type="apparatus"><ab></ab></div>
