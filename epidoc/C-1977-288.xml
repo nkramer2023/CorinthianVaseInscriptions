@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Coarse Base Fragment with Dipinto</title>
+                <title>Thasian Amphora with Dipinto</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,30 +15,30 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1948 79</idno>
+                        <idno>C 1977 288</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                Wall fragment
+                                Single fragment, part of shoulder and neck, of transport amphora
                                     <material/><objectType/><dimensions/>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Yellowish slip</layout>
+                                <layout>Ligature in red paint on neck</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Two rows of three letters</handNote>
+                            <handNote>Two Greek letters, possibly (alpha delta)</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum South Stoa</origPlace>
-                            <origDate>DATE</origDate>
+                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origDate>4th c.</origDate>
                         </origin>
-                        <provenance type="found">South Stoa, Well XIX</provenance>
+                        <provenance type="found">Good things from bad places box</provenance>
                         <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
                     </history>
                 </msDesc>
@@ -47,21 +47,20 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ascsa.net/id/corinth/object/c%201948%2079?q=C-1948-79&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
+        <graphic url="URL"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>
-                    <gap reason="illegible" quantity="1" unit="character"/>κωλ
-                    <lb n="2"/>
-                    αθα
+                    <hi rend="ligature">αδ</hi>
                 </ab>
             </div>
             <div type="apparatus"><ab></ab></div>
             <div type="translation"><ab></ab></div>
-            <div type="commentary"><ab></ab></div>
+            <div type="commentary">
+                <ab>Unclear if ligature is intentional or accidental</ab>
+            </div>
             <div type="bibliography"><ab></ab></div>
         </body>
     </text>
