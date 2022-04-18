@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Coarse Base Fragment with Dipinto</title>
+                <title>Gray Ware Moulded Bowl</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,30 +15,30 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1948 79</idno>
+                        <idno>C 1976 41 A and B</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                Wall fragment
+                                Two fragments: A mended from 10 fragments, B a rim sherd. Grey ware bowl, exterior decorated in low relief.
                                     <material/><objectType/><dimensions/>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Yellowish slip</layout>
+                                <layout>Three rows of dots, separated from rows of relief of leaves and stalk by two grooves</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Two rows of three letters</handNote>
+                            <handNote>Single Eta/H</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum South Stoa</origPlace>
-                            <origDate>DATE</origDate>
+                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origDate>Unknown</origDate>
                         </origin>
-                        <provenance type="found">South Stoa, Well XIX</provenance>
+                        <provenance type="found">Grid 73 ZZ-A, debris over floor of Roman Cellar Building; Elevation 82.919-82.707</provenance>
                         <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
                     </history>
                 </msDesc>
@@ -47,22 +47,23 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ascsa.net/id/corinth/object/c%201948%2079?q=C-1948-79&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
+        <graphic url="https://ibb.co/cwLYgzH"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>
-                    <gap reason="illegible" quantity="1" unit="character"/>κωλ
-                    <lb n="2"/>
-                    αθα
+                    η
                 </ab>
             </div>
             <div type="apparatus"><ab></ab></div>
             <div type="translation"><ab></ab></div>
             <div type="commentary"><ab></ab></div>
-            <div type="bibliography"><ab></ab></div>
+            <div type="bibliography">
+                <ab>
+                   Hesperia 1980, p. 148 #36 
+                </ab>
+            </div>
         </body>
     </text>
 </TEI>

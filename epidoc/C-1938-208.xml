@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Coarse Base Fragment with Dipinto</title>
+                <title>Imported Jug Fragment (Egyptian?)</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,30 +15,30 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1948 79</idno>
+                        <idno>C 1938 208</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                Wall fragment
+                                Fragment preserves base and lower part of body, pale green glaze except for bottom.
                                     <material/><objectType/><dimensions/>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Yellowish slip</layout>
+                                <layout>Graffito on pinkish-clay unglazed base</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Two rows of three letters</handNote>
+                            <handNote>Figure Eight/Infinity figure, displayed as upright (figure-eight); flat top and slanted bottom.</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum South Stoa</origPlace>
-                            <origDate>DATE</origDate>
+                            <origPlace>Corinth Forum North Central</origPlace>
+                            <origDate>XXXX</origDate>
                         </origin>
-                        <provenance type="found">South Stoa, Well XIX</provenance>
+                        <provenance type="found">Grid d-E:123-127</provenance>
                         <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
                     </history>
                 </msDesc>
@@ -47,21 +47,20 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ascsa.net/id/corinth/object/c%201948%2079?q=C-1948-79&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
+        <graphic url="https://ascsa.net/CacheIcons//Corinth/Photos/negatives/year_roll/1991_058/1991_st_058_031A.jpg.icon.jpg"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>
-                    <gap reason="illegible" quantity="1" unit="character"/>κωλ
-                    <lb n="2"/>
-                    αθα
+                    <g type="8"/>
                 </ab>
             </div>
             <div type="apparatus"><ab></ab></div>
             <div type="translation"><ab></ab></div>
-            <div type="commentary"><ab></ab></div>
+            <div type="commentary">
+                <ab>Unknown, commentary on card ("Egyptian?") proves original finders were as confused as present encoders</ab>
+            </div>
             <div type="bibliography"><ab></ab></div>
         </body>
     </text>

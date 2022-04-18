@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Oinochoe Shoulder Fragment with Graffito</title>
+                <title>C 1977 58</title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
@@ -14,61 +14,70 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>ASCSA Corinth</repository>
-                            <idno>C-1970-167</idno>
+                        <repository>museum/archive</repository>
+                            <idno>inventory number</idno>
                     </msIdentifier>
                     <physDesc>
                     <objectDesc>
                         <supportDesc>
                             <support>
-                                Seven joining sherds from top of body and shoulder, with small part of base of neck
+                                description of object/monument (likely to include
                                 <material/>
+                                    and
                                 <objectType/>
+                                    information,
                                 <dimensions/>
+                                    , etc.)
                             </support>
                         </supportDesc>
                         <layoutDesc>
-                            <layout>Sloping field, with reddish-brown glaze, "awkwardly scratched" graffito</layout>
+                            <layout>description of text field/campus</layout>
                         </layoutDesc>
                     </objectDesc>
                     <handDesc>
                         <handNote>
-                            Seven letters, possibly Corinthian alphabet, possibly poorly written Attic-Ionic
-                            <height/>
+                            description of letters, possibly including
+                            <height>letter-heights</height>
                         </handNote>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum Central</origPlace>
-                            <origDate>Unknown</origDate>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
                         </origin>
-                        <provenance type="found">3 meters North of poros steps of phase 2 of Sacred Spring; Elevation 75.37-.33</provenance>
-                        <provenance type="observed">ASCSA Corinth Basement</provenance>
+                        <provenance type="found"> Findspot and circumstances/context </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above) </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/fp1ZsfV"/>
+        <graphic url="photograph of text or monument"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
                 <lb n="1"/>
-                <choice><orig cert="low">hισ<gap reason="illegible" quantity="1" unit="character"/>ον</orig><reg cert="low">ἱμεσλον</reg></choice>
+                Greek or Latin (etc.) text here
                 </ab>
             </div>
-            <div type="apparatus"/>
-            <div type="translation"/>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
             <div type="commentary">
-                <p>Unintelligible writing</p>
+                <p>commentary</p>
             </div>
             <div type="bibliography">
-                <p>Williams, Charles K., and Joan E. Fisher. “Corinth, 1970: Forum Area.” Hesperia: The Journal of the American School of Classical Studies at Athens, vol. 40, no. 1, The American School of Classical Studies at Athens, 1971, p.31, #33 https://doi.org/10.2307/147401.</p>
+                <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
     </text>
 </TEI>
+
+

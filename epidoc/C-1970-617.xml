@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Coarse Base Fragment with Dipinto</title>
+                <title>Inscribed Articulated Kantharos</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,53 +15,51 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1948 79</idno>
+                        <idno>C 1970 617</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                Wall fragment
+                                Articulated kantharos with vertical profile, dull black glazed
                                     <material/><objectType/><dimensions/>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Yellowish slip</layout>
+                                <layout>Graffito in handle zone, black glaze</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Two rows of three letters</handNote>
+                            <handNote>Parts of three letters</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum South Stoa</origPlace>
-                            <origDate>DATE</origDate>
+                            <origPlace>Corinth Forum Southwest? Sacred Spring?</origPlace>
+                            <origDate>Hellenistic</origDate>
                         </origin>
-                        <provenance type="found">South Stoa, Well XIX</provenance>
+                        <provenance type="found">Good Things From Bad Places</provenance>
                         <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
-            
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ascsa.net/id/corinth/object/c%201948%2079?q=C-1948-79&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
+        <graphic url="https://ascsa.net/id/corinth/image/bw%202000%20056%2001?q=C%201970%20617&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>
-                    <gap reason="illegible" quantity="1" unit="character"/>κωλ
-                    <lb n="2"/>
-                    αθα
+                    <gap reason="illegible" quantity="1" unit="character"/><orig>λ</orig><unclear>λ</unclear>
                 </ab>
             </div>
             <div type="apparatus"><ab></ab></div>
             <div type="translation"><ab></ab></div>
-            <div type="commentary"><ab></ab></div>
+            <div type="commentary">
+                <ab>Unclear as to whether they are even letters or instead part of a design of some sort. First letter appears to be a diagonal line unconnected to any other stroke.</ab>
+            </div>
             <div type="bibliography"><ab></ab></div>
         </body>
     </text>
