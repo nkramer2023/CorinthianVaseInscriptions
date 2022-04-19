@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kotyle Foot with Graffito</title>
+                <title>Corinthian Transport Amphora Tybe B: Dipinto</title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
@@ -15,60 +15,59 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                            <idno>C-1975-46</idno>
+                            <idno>C-1937-326</idno>
                     </msIdentifier>
                     <physDesc>
                     <objectDesc>
                         <supportDesc>
                             <support>
-                                Single fragment preserving foot and lower body
+                                Single fragment, ca. one-third neck from shoulder to upper handle attachment
                                 <material/>
                                 <objectType/>
                                 <dimensions/>
                             </support>
                         </supportDesc>
                         <layoutDesc>
-                            <layout>Black glaze, with five letters etched onto interior rim</layout>
+                            <layout>One letter on broad neck</layout>
                         </layoutDesc>
                     </objectDesc>
                     <handDesc>
                         <handNote>
-                            Five Attic-Ionic letters take up most of upward-curving interior rim.
+                            Beta
                             <height/>
                         </handNote>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origPlace>Corinth Forum South Central</origPlace>
                             <origDate>Unknown</origDate>
                         </origin>
-                        <provenance type="found">Grid 74:D; Elevation 82.188-81.192</provenance>
-                        <provenance type="observed">ASCA Corinth Basement; Basket 62, Lot 75-38</provenance>
+                        <provenance type="found"> Well at b-c:18-19; Grid 50:L </provenance>
+                        <provenance type="observed">ASCSA Corinth Basement</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/Th9v7kR"/>
+        <graphic url="https://ascsa.net/CacheIcons//Corinth/Photos/negatives/year_roll/1979_024/1979_st_024_018.jpg.icon.jpg"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
                 <lb n="1"/>
-                σοτερ
+                Β
                 </ab>
             </div>
-            <div type="apparatus">
-            </div>
-            <div type="translation">
-                <p>Savior</p>
-            </div>
+            <div type="apparatus"/>
+            <div type="translation"/>
             <div type="commentary">
+                <p>Possibly shorthand for capacity, contents, ownership, etc.</p>
             </div>
             <div type="bibliography">
+                <p>Koehler, Diss. p.331 #701</p>
             </div>
         </body>
     </text>

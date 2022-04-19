@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kotyle Foot with Graffito</title>
+                <title>Corinthian B Transport Amphora: Neck, Dipinto</title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
@@ -15,60 +15,57 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                            <idno>C-1975-46</idno>
+                            <idno>C-1937-332</idno>
                     </msIdentifier>
                     <physDesc>
                     <objectDesc>
                         <supportDesc>
                             <support>
-                                Single fragment preserving foot and lower body
+                                Single fragment, lower half neck
                                 <material/>
                                 <objectType/>
                                 <dimensions/>
                             </support>
                         </supportDesc>
                         <layoutDesc>
-                            <layout>Black glaze, with five letters etched onto interior rim</layout>
+                            <layout>Red dipinto on broad lower half of neck</layout>
                         </layoutDesc>
                     </objectDesc>
                     <handDesc>
                         <handNote>
-                            Five Attic-Ionic letters take up most of upward-curving interior rim.
+                            Two letters, both single lines, one possibly a gamma or arrow
                             <height/>
                         </handNote>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origPlace>Corinth Forum South Central</origPlace>
                             <origDate>Unknown</origDate>
                         </origin>
-                        <provenance type="found">Grid 74:D; Elevation 82.188-81.192</provenance>
-                        <provenance type="observed">ASCA Corinth Basement; Basket 62, Lot 75-38</provenance>
+                        <provenance type="found">Well at b-c:19-20; Grrid 50:L</provenance>
+                        <provenance type="observed">ASCSA Corinth Basement</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/Th9v7kR"/>
+        <graphic url="https://ascsa.net/id/corinth/object/c%201937%20332?q=C%201937%20332&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
                 <lb n="1"/>
-                σοτερ
+                <orig cert="low">γ</orig>ι
                 </ab>
             </div>
-            <div type="apparatus">
-            </div>
-            <div type="translation">
-                <p>Savior</p>
-            </div>
-            <div type="commentary">
-            </div>
+            <div type="apparatus"/>
+            <div type="translation"/>
+            <div type="commentary"/>
             <div type="bibliography">
+                <p>Koehler, C. G.. Corinthian A and B transport amphoras. Princeton University Pr., 1979, p. 350, #754 </p>
             </div>
         </body>
     </text>

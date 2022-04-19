@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Coarse Base Fragment with Dipinto</title>
+                <title>Aryballos with Dipinti</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,31 +15,32 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1948 79</idno>
+                        <idno>C-2015-17</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>
-                                Wall fragment
-                                    <material/><objectType/><dimensions/>
-                                </support>
+                                <support>vase inscription (dipinto) <material/> Fine very pale brown clay with rare small subrounded tabular gray and orange inclusions and rare small voids.
+                                    and <objectType/> <dimensions/>, etc.)</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Yellowish slip</layout>
+                                <layout>one line, diagonal to shield in outline </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Two rows of three letters</handNote>
+                            <handNote>2 fragments, with single fragment preserving small part of body. Body reserved with black glazed figure holding round shiled (in outline) and spear over their shoulder, with the label of the shield diagonal. 
+                            </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum South Stoa</origPlace>
-                            <origDate>DATE</origDate>
+                            <origPlace>Corinth South Stoa</origPlace>
+                            <origDate>7th-6th c CE</origDate>
                         </origin>
-                        <provenance type="found">South Stoa, Well XIX</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="found"> 
+                        </provenance>
+                        <provenance type="observed">Basket: South Stoa Context 37
+                        </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -47,22 +48,27 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ascsa.net/id/corinth/object/c%201948%2079?q=C-1948-79&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
+        <graphic url="https://ascsa.net/CacheThumbs//Corinth/Photos/digital/2015%20season%20photos/2015_3740.jpg.thumb.jpg"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>
-                    <gap reason="illegible" quantity="1" unit="character"/>κωλ
-                    <lb n="2"/>
-                    αθα
+                    <lb n="1"/>ΓΕΑΧΟΦ
                 </ab>
             </div>
-            <div type="apparatus"><ab></ab></div>
-            <div type="translation"><ab></ab></div>
-            <div type="commentary"><ab></ab></div>
-            <div type="bibliography"><ab></ab></div>
+            <div type="apparatus">
+                <p></p>
+            </div>
+            <div type="translation">
+                <p>GEAXOF</p>
+            </div>
+            <div type="commentary">
+                <p></p>
+            </div>
+            <div type="bibliography">
+                <p></p>
+            </div>
         </body>
     </text>
 </TEI>

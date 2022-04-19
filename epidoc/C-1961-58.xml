@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Coarse Base Fragment with Dipinto</title>
+                <title>Stamped Amphora Handle: Parmeniskos Group</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,31 +15,32 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1948 79</idno>
+                        <idno>C-1961-58</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>
-                                Wall fragment
-                                    <material/><objectType/><dimensions/>
-                                </support>
+                                <support>vase inscription (dipinto) <material/>
+                                    and <objectType/>  <dimensions/>, etc.)</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Yellowish slip</layout>
+                                <layout>one letter (traces of dipinto) </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Two rows of three letters</handNote>
+                            <handNote> Handle only in pink-buff clay with circular stamp on top of handle, a small omega (O) between the lower part of an eta (H). Traces of red paint around neck (likely traces of dipinto).
+                            </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum South Stoa</origPlace>
-                            <origDate>DATE</origDate>
+                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origDate></origDate>
                         </origin>
-                        <provenance type="found">South Stoa, Well XIX</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="found"> Cenchreae Road, near elev 87.35 at A/108. Basket #13, Lot 655.
+                        </provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 312
+                        </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -47,22 +48,27 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ascsa.net/id/corinth/object/c%201948%2079?q=C-1948-79&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
+        <graphic url="https://ascsa.net/CacheIcons//Corinth/Photos/negatives/year_roll/1986_074/1986_st_074_035.jpg.icon.jpg"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>
-                    <gap reason="illegible" quantity="1" unit="character"/>κωλ
-                    <lb n="2"/>
-                    αθα
+                    <lb n="1"/>ΟΗ
                 </ab>
             </div>
-            <div type="apparatus"><ab></ab></div>
-            <div type="translation"><ab></ab></div>
-            <div type="commentary"><ab></ab></div>
-            <div type="bibliography"><ab></ab></div>
+            <div type="apparatus">
+                <p></p>
+            </div>
+            <div type="translation">
+                <p></p>
+            </div>
+            <div type="commentary">
+                <p></p>
+            </div>
+            <div type="bibliography">
+                <p></p>
+            </div>
         </body>
     </text>
 </TEI>

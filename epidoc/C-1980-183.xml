@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Coarse Base Fragment with Dipinto</title>
+                <title>Roman Transport Amphora Dressel Type 21/22, Stamp, Dipinto</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,31 +15,32 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1948 79</idno>
+                        <idno>C-1980-183</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>
-                                Wall fragment
-                                    <material/><objectType/><dimensions/>
-                                </support>
+                                <support>vase inscription (dipinto) <material/>
+                                    and <objectType/> Amphora Dressel Type 21/22 <dimensions/>, etc.)</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Yellowish slip</layout>
+                                <layout>Single line</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Two rows of three letters</handNote>
+                            <handNote>Rectangular stamp on upper neck and trace of dipinto on opposite side of neck. 
+                            </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum South Stoa</origPlace>
-                            <origDate>DATE</origDate>
+                            <origPlace>Corinth Forum Northeast</origPlace>
+                            <origDate>44 BCE - 1/2nd CE</origDate>
                         </origin>
-                        <provenance type="found">South Stoa, Well XIX</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="found"> Grid 40: AB, Fill under Roman Paving 
+                        </provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Bay 91; Shelf 1 
+                        </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -47,22 +48,28 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ascsa.net/id/corinth/object/c%201948%2079?q=C-1948-79&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
+        <graphic url="https://drive.google.com/file/d/1gbfCEDW8ENrq0cOsgg_vHfCHYVVtkleP/view?usp=sharing"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>
-                    <gap reason="illegible" quantity="1" unit="character"/>κωλ
-                    <lb n="2"/>
-                    αθα
+                    <lb n="1"/>ΕΠỴ
                 </ab>
             </div>
-            <div type="apparatus"><ab></ab></div>
-            <div type="translation"><ab></ab></div>
-            <div type="commentary"><ab></ab></div>
-            <div type="bibliography"><ab></ab></div>
+            <div type="apparatus">
+                <p></p>
+            </div>
+            <div type="translation">
+                <p>
+</p>
+            </div>
+            <div type="commentary">
+                <p>Stem of Ỵ missing from fragment. Rectangular stamp reads IVEIO (given in database).</p>
+            </div>
+            <div type="bibliography">
+                <p>.</p>
+            </div>
         </body>
     </text>
 </TEI>

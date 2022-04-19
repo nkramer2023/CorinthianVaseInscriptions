@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscribed Attic Spur-Handled Kantharos</title>
+                <editor xml:id="tchang">Tiffany Chang</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="C-1940-340"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C-1940-340</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>graffito<material/>
+                                    and <objectType/> Kantharos<dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Graffiti between handles on both sides</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>3 words
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>New Museum East</origPlace>
+                            <origDate>65 Last quarter 4th c. BC</origDate>
+                        </origin>
+                        <provenance type="found"> Well J
+                        </provenance>
+                        <provenance type="observed">Display: New Gallery-South Wing (Case 528, Item No. 29) 
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#tchang" when="2022-04-18">Transcribed and encoded text </change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://drive.google.com/file/d/1GqCC26xHChx22AEV8zToXxq3QWhmLOBL/view?usp=sharing"/>
+        <graphic url="https://drive.google.com/file/d/1YG6Ptqb-cwHdm6RYmSWWoEH3X6cFNyKD/view?usp=sharing"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>ΑΦΡΟΔΙΤΑΣΕ
+                    <lb n="2"/> ΛΑΧΕΚΑΙΓΛΥΚΥΠΟΘΟΣ 
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>Afroditas (side A), Laxekaigluku Poros</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                             <bibl xml:id="mus-C-1940-340">Corinth Museum index card C-1940-340</bibl>
+                            <bibl>Weinberg, Hesperia 1948 P239 N006</bibl>
+                            <bibl>Boegehold, GRBS 15, 1974, P036-037</bibl>
+                      </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

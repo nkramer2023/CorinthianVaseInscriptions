@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kotyle Foot with Graffito</title>
+                <title>Fragment of Arretine Bowl with Graffiti</title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
@@ -15,61 +15,57 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                            <idno>C-1975-46</idno>
+                            <idno>C-1946-13</idno>
                     </msIdentifier>
                     <physDesc>
                     <objectDesc>
                         <supportDesc>
                             <support>
-                                Single fragment preserving foot and lower body
+                                Small fragment of bottom of bowl
                                 <material/>
                                 <objectType/>
                                 <dimensions/>
                             </support>
                         </supportDesc>
                         <layoutDesc>
-                            <layout>Black glaze, with five letters etched onto interior rim</layout>
+                            <layout>Red glaze, circularly written letters, incised tondo</layout>
                         </layoutDesc>
                     </objectDesc>
                     <handDesc>
                         <handNote>
-                            Five Attic-Ionic letters take up most of upward-curving interior rim.
+                            Two large letters, possibly Sigma/San and Alpha
                             <height/>
                         </handNote>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origPlace>Corinth Forum Southeast Building</origPlace>
                             <origDate>Unknown</origDate>
                         </origin>
-                        <provenance type="found">Grid 74:D; Elevation 82.188-81.192</provenance>
-                        <provenance type="observed">ASCA Corinth Basement; Basket 62, Lot 75-38</provenance>
+                        <provenance type="found">Southeast Building</provenance>
+                        <provenance type="observed">ASCSA Corinth Basement</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/Th9v7kR"/>
+        <graphic url="photograph of text or monument"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
                 <lb n="1"/>
-                σοτερ
+                σα
                 </ab>
             </div>
-            <div type="apparatus">
-            </div>
-            <div type="translation">
-                <p>Savior</p>
-            </div>
-            <div type="commentary">
-            </div>
-            <div type="bibliography">
-            </div>
+            <div type="apparatus"/>
+            <div type="translation"/>
+            <div type="commentary"/>
+            <div type="bibliography"/>
         </body>
     </text>
 </TEI>
+

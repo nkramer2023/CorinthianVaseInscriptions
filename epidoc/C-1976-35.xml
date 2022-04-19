@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Coarse Base Fragment with Dipinto</title>
+                <title>Local Roman Stamped Plate with Graffito</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,30 +15,30 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1948 79</idno>
+                        <idno>C 1976 35</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                Wall fragment
+                                    Stamped plate with torus ring foot, glazed, .166 diameter.
                                     <material/><objectType/><dimensions/>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Yellowish slip</layout>
+                                <layout>Stamp on center of interior floor, .011 long by .005 wide <p>Graffito on exterior lower body, scratched after firing</p></layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Two rows of three letters</handNote>
+                            <handNote>Stamp in Roman characters, four letters <p>Ambiguous alphabet of graffito, three letters</p></handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum South Stoa</origPlace>
-                            <origDate>DATE</origDate>
+                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origDate>Roman</origDate>
                         </origin>
-                        <provenance type="found">South Stoa, Well XIX</provenance>
+                        <provenance type="found">Grid 73 ZZ-A, debris over floor of Roman Cellar Building; Elevation 82.662 to 82.549</provenance>
                         <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
                     </history>
                 </msDesc>
@@ -47,22 +47,25 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ascsa.net/id/corinth/object/c%201948%2079?q=C-1948-79&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
+        <graphic url="https://ibb.co/bNGpZYX"/>
+        <graphic url="https://ibb.co/m8wzxVv"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>
-                    <gap reason="illegible" quantity="1" unit="character"/>κωλ
-                    <lb n="2"/>
-                    αθα
+                <lb n="1"/>
+                CELE
+                <lb n="2"/>
+                    αν
                 </ab>
             </div>
-            <div type="apparatus"><ab></ab></div>
-            <div type="translation"><ab></ab></div>
-            <div type="commentary"><ab></ab></div>
-            <div type="bibliography"><ab></ab></div>
+            <div type="apparatus"></div>
+            <div type="translation"></div>
+            <div type="commentary"></div>
+            <div type="bibliography">
+                <ab>Corinth Vol. 18, Iss. 2 p.58 #79 <lb n="1"/>Hesperia 1980, p. 149, #41</ab>
+            </div>
         </body>
     </text>
 </TEI>

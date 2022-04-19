@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Coarse Base Fragment with Dipinto</title>
+                <title>Inscribed Pot Fragment</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,31 +15,32 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1948 79</idno>
+                        <idno>C-1961-73</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>
-                                Wall fragment
-                                    <material/><objectType/><dimensions/>
-                                </support>
+                                <support>pot inscription <material/>
+                                    and <objectType/> <dimensions/>, etc.)</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Yellowish slip</layout>
+                                <layout>Two letter monogram is painted in red. </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Two rows of three letters</handNote>
+                            <handNote>Fragment only of pot in buff coarse clay, H. of monogram 0.045.
+                            </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum South Stoa</origPlace>
-                            <origDate>DATE</origDate>
+                            <origPlace>Agora SW #791</origPlace>
+                            <origDate></origDate>
                         </origin>
-                        <provenance type="found">South Stoa, Well XIX</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="found"> Classical fill in Kenchreai Road; basket 13. NB #229, p. 170. Lot 655. 
+                        </provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 273
+                        </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -47,22 +48,29 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ascsa.net/id/corinth/object/c%201948%2079?q=C-1948-79&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
+        <graphic url="https://ascsa.net/image?type=preview&amp;id=Corinth%3AImage%3Abw%201961%20035%2002"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>
-                    <gap reason="illegible" quantity="1" unit="character"/>κωλ
-                    <lb n="2"/>
-                    αθα
+                    <lb n="1"/>MA
                 </ab>
             </div>
-            <div type="apparatus"><ab></ab></div>
-            <div type="translation"><ab></ab></div>
-            <div type="commentary"><ab></ab></div>
-            <div type="bibliography"><ab></ab></div>
+            <div type="apparatus">
+                <p></p>
+            </div>
+            <div type="translation">
+                <p></p>
+            </div>
+            <div type="commentary">
+                <p></p>
+            </div>
+            <div type="bibliography">
+                <p></p>
+            </div>
         </body>
     </text>
 </TEI>
+
+

@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Coarse Base Fragment with Dipinto</title>
+                <title>Corinthian B Transport Amphora with Dipinto</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,31 +15,31 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1948 79</idno>
+                        <idno>C-1969-327</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>
-                                Wall fragment
-                                    <material/><objectType/><dimensions/>
-                                </support>
+                                <support>vase inscription (dipinto) <material/>
+                                    and <objectType/> <dimensions/>, etc.)</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Yellowish slip</layout>
+                                <layout> Single letter (I or iota) on center neck </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Two rows of three letters</handNote>
+                            <handNote>Corinthian B transport amphora with cylindrical neck with step at base of flaring rim with rounded profile, triangular in section with broad flat lip. Mouth oval. Evidence of flattening of rim toward handle attachment. Fine clay sandy to touch with fine sand-like inclusions, some sparkling, some pitting.
+                            </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum South Stoa</origPlace>
-                            <origDate>DATE</origDate>
+                            <origPlace>Sacred Spring</origPlace>
+                            <origDate>68 BCE (Hellenistic)</origDate>
                         </origin>
-                        <provenance type="found">South Stoa, Well XIX</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="found"> Trench 11 Trench 11B Trench 13 Trench, Sand above race-course floor </provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 275
+                        </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -47,22 +47,27 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ascsa.net/id/corinth/object/c%201948%2079?q=C-1948-79&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
+        <graphic url=""/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>
-                    <gap reason="illegible" quantity="1" unit="character"/>κωλ
-                    <lb n="2"/>
-                    αθα
+                    <lb n="1"/>I
                 </ab>
             </div>
-            <div type="apparatus"><ab></ab></div>
-            <div type="translation"><ab></ab></div>
-            <div type="commentary"><ab></ab></div>
-            <div type="bibliography"><ab></ab></div>
+            <div type="apparatus">
+                <p></p>
+            </div>
+            <div type="translation">
+                <p></p>
+            </div>
+            <div type="commentary">
+                <p></p>
+            </div>
+            <div type="bibliography">
+                <p></p>
+            </div>
         </body>
     </text>
 </TEI>

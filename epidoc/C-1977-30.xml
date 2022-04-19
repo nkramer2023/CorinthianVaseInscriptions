@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transport Amphora with Dipinto</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>The Archaeological Museum - Ancient Corinth</repository>
+                        <idno>C-1977-30</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material> Coarse, hard-fired, light red with a few small dark inclusions, 2.5 YR 6/6 Light Red </material> 
+     
+                                        <objectType>Fragment from junction of shoulder to neck of transport/storage jar with steep shoulder curving into tapering neck.</objectType>
+                                    </p>  
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Two letters</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Thick white slip on the exterior only. Matte-red painted letters, "at" on outside at top of shoulder. Letter height of the "T" = 00.005M. 
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Forum Southwest</origPlace>
+                            <origDate></origDate>
+                        </origin>
+                        <provenance type="found"> Cleaning Basket for West Side of Room, Grid 66:A
+                        </provenance>
+                        <provenance type="observed"> ASCSA Museum Basement, Drawer 277
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>AT
+                </ab>
+            </div>
+            <div type="commentary">
+                <p></p>
+            </div>
+        </body>
+    </text>
+</TEI>

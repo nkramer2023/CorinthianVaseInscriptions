@@ -5,66 +5,68 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kotyle Foot with Graffito</title>
+                <title>C 1977 251</title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
-                    <idno type="filename"/>
+                    <idno type="filename">C 1977 251</idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                            <idno>C-1975-46</idno>
+                            <idno>C 1977 251</idno>
                     </msIdentifier>
                     <physDesc>
                     <objectDesc>
                         <supportDesc>
                             <support>
-                                Single fragment preserving foot and lower body
-                                <material/>
-                                <objectType/>
-                                <dimensions/>
+                                <p>Fragment from near the top of a flat sloping shoulder</p>
+                                    <objectType>pitcher</objectType>
+                                <material>fine, loosely compacted soft pink fabric with some tiny sparkling inclusions</material>
+                                <dimensions>
+                                    <height>.025</height>
+                                    <width>.045</width>
+                                </dimensions>
                             </support>
                         </supportDesc>
                         <layoutDesc>
-                            <layout>Black glaze, with five letters etched onto interior rim</layout>
+                            <layout>pinkish-white slip</layout>
                         </layoutDesc>
                     </objectDesc>
                     <handDesc>
-                        <handNote>
-                            Five Attic-Ionic letters take up most of upward-curving interior rim.
-                            <height/>
-                        </handNote>
+                        <handNote/>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum Southwest</origPlace>
-                            <origDate>Unknown</origDate>
+                            <origPlace>Unknown, probably Corinth</origPlace>
+                            <origDate>5th century BCE</origDate>
                         </origin>
-                        <provenance type="found">Grid 74:D; Elevation 82.188-81.192</provenance>
-                        <provenance type="observed">ASCA Corinth Basement; Basket 62, Lot 75-38</provenance>
+                        <provenance type="found">
+                            <p>Forum Southwest</p>
+                            <p>Building V, amphora packing against East-West stone drain</p>
+                            <p>Grid Nos.: 69-70:C</p>
+                        </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/Th9v7kR"/>
+        <graphic url="photograph of text or monument"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
                 <lb n="1"/>
-                σοτερ
+                <unclear>Α</unclear><gap reason="lost" unit="character" quantity="1"/>
                 </ab>
             </div>
             <div type="apparatus">
             </div>
             <div type="translation">
-                <p>Savior</p>
             </div>
             <div type="commentary">
             </div>
@@ -73,3 +75,4 @@
         </body>
     </text>
 </TEI>
+

@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kotyle Foot with Graffito</title>
+                <title>C 1977 58</title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
@@ -14,62 +14,70 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>ASCSA Corinth</repository>
-                            <idno>C-1975-46</idno>
+                        <repository>museum/archive</repository>
+                            <idno>inventory number</idno>
                     </msIdentifier>
                     <physDesc>
                     <objectDesc>
                         <supportDesc>
                             <support>
-                                Single fragment preserving foot and lower body
+                                description of object/monument (likely to include
                                 <material/>
+                                    and
                                 <objectType/>
+                                    information,
                                 <dimensions/>
+                                    , etc.)
                             </support>
                         </supportDesc>
                         <layoutDesc>
-                            <layout>Black glaze, with five letters etched onto interior rim</layout>
+                            <layout>description of text field/campus</layout>
                         </layoutDesc>
                     </objectDesc>
                     <handDesc>
                         <handNote>
-                            Five Attic-Ionic letters take up most of upward-curving interior rim.
-                            <height/>
+                            description of letters, possibly including
+                            <height>letter-heights</height>
                         </handNote>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum Southwest</origPlace>
-                            <origDate>Unknown</origDate>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
                         </origin>
-                        <provenance type="found">Grid 74:D; Elevation 82.188-81.192</provenance>
-                        <provenance type="observed">ASCA Corinth Basement; Basket 62, Lot 75-38</provenance>
+                        <provenance type="found"> Findspot and circumstances/context </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above) </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/Th9v7kR"/>
+        <graphic url="photograph of text or monument"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
                 <lb n="1"/>
-                σοτερ
+                Greek or Latin (etc.) text here
                 </ab>
             </div>
             <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
             </div>
             <div type="translation">
-                <p>Savior</p>
+                <p>translation(s)</p>
             </div>
             <div type="commentary">
+                <p>commentary</p>
             </div>
             <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
     </text>
 </TEI>
+
+

@@ -1,0 +1,77 @@
+<TEI xml:space="preserve" xml:lang="en"
+ xml:base="ex-epidoctemplate.xml" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Attic Band Cup with Dipinto</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority/>
+                <idno type="filename"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C-1973-421</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material> Fine pinkish-buff clay </material> 
+                                       
+                                        <objectType>Band cup with slight convex profile to body, 2 single frgt. broken all around</objectType>
+                                    </p>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Two letters</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote> Reserved band above which black glazed band. Interior glazed. 
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Forum Southwest, Deposit under lowest poros chip floor immediately south of the dionysian</origPlace>
+                            <origDate>58 BCE</origDate>
+                        </origin>
+                        <provenance type="found"> Forum Southwest Attica 62:H 62:J 63: H 63:J 64:H 64: J
+                        </provenance>
+                        <provenance type="observed"> ASCSA Corinth Museum Basement; Drawer 160 
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://tiffanyhyunkyung.files.wordpress.com/2022/01/screen-shot-2022-01-28-at-3.26.07-pm.png?w=260"/> 
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/> EY
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p></p>
+            </div>
+            <div type="translation"> 
+                <p></p>
+            </div>
+            <div type="commentary">
+                <p>550-525 BCE, Ref. Nos. 1982-46-35</p>
+            </div>
+            <div type="bibliography">
+                <p>Brownlee, Ann Blair. “Attic Black Figure from Corinth: II.” Hesperia: The Journal of the American School of Classical Studies at Athens, vol. 58, no. 4, 1989, p. 391, https://doi.org/148338.
+</p>
+            </div>
+        </body>
+    </text>
+</TEI>
