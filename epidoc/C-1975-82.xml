@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Transport amphora with dipinto</title>
+                <title>Attic kantharos handle with graffito</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,30 +15,31 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1977 279</idno>
+                        <idno>C 1975 82</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>vase inscription (dipinto) <material/>
-                                    and <objectType/> imported transport amphora with many fine inclusions <dimensions/>, etc.)</support>
+                                <support>vase inscription (graffito) <material/>
+                                    and <objectType/> Single fragment mended from four sherds and preserving part of rim and handle. <dimensions/>, etc.)</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>one letter on neck, matte red-brown paint </layout>
+                                <layout>five letters</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>
+                            <handNote>graffito inscribed on strap handle after firing: sigma, omicron, sigma, tau, rho
                             </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace>Corinth Forum Southwest</origPlace>
-                            <origDate>sixth century BCE</origDate>
+                            <origDate>fifth century BCE</origDate>
                         </origin>
-                        <provenance type="found"> Fill below paved floor with cobbles, Grid 68: E </provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 277
+                        <provenance type="found"> Grid 73D + 82.017 -81.963 m
+                        </provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 265
                         </provenance>
                     </history>
                 </msDesc>
@@ -46,22 +47,25 @@
             
         </fileDesc>
     </teiHeader>
-    
+    <facsimile>
+        <graphic url="http://photograph"/>
+    </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>Π
+                    <lb n="1"/>σοστρ
                 </ab>
             </div>
             <div type="apparatus">
                 <p>external apparatus criticus (if applicable)</p>
             </div>
             <div type="translation">
-                <p></p>
+                <p>
+</p>
             </div>
             <div type="commentary">
-                <p>As this is only the Greek letter pi, perhaps it's an abbreviation?</p>
+                <p>Perhaps this is a proper name?</p>
             </div>
             <div type="bibliography">
                 <p>bibliography of previous editions, discussion, etc.</p>

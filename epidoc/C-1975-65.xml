@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Transport amphora with dipinto</title>
+                <title>Stemless kylix foot with graffito</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,30 +15,31 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1977 279</idno>
+                        <idno>C 1975 65</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>vase inscription (dipinto) <material/>
-                                    and <objectType/> imported transport amphora with many fine inclusions <dimensions/>, etc.)</support>
+                                <support>vase inscription (graffito) <material/>
+                                    and <objectType/> Single fragment broken all around, preserving most of foot profile. <dimensions/>, etc.)</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>one letter on neck, matte red-brown paint </layout>
+                                <layout>seven letters</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>
+                            <handNote>graffito on underside: first letter uncertain, mu, tau, alpha, rho, tau, alpha
                             </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace>Corinth Forum Southwest</origPlace>
-                            <origDate>sixth century BCE</origDate>
+                            <origDate>fifth century BCE</origDate>
                         </origin>
-                        <provenance type="found"> Fill below paved floor with cobbles, Grid 68: E </provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 277
+                        <provenance type="found"> Southwest corner of later 5th c. BCE fill over earliest floor of pentagonal building
+                        </provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 265
                         </provenance>
                     </history>
                 </msDesc>
@@ -46,22 +47,25 @@
             
         </fileDesc>
     </teiHeader>
-    
+    <facsimile>
+        <graphic url="http://photograph"/>
+    </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>Π
+                    <lb n="1"/><gap reason="illegible" quantity="1" unit="character"/>δμταρτα
                 </ab>
             </div>
             <div type="apparatus">
                 <p>external apparatus criticus (if applicable)</p>
             </div>
             <div type="translation">
-                <p></p>
+                <p>
+</p>
             </div>
             <div type="commentary">
-                <p>As this is only the Greek letter pi, perhaps it's an abbreviation?</p>
+                <p>Perhaps this is a proper name?</p>
             </div>
             <div type="bibliography">
                 <p>bibliography of previous editions, discussion, etc.</p>

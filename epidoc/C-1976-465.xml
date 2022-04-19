@@ -51,9 +51,11 @@
             <change who="#me" when="2022-03-23">Transcribed and encoded text (at EpiDoc workshop)</change>
         </revisionDesc>
     </teiHeader>
+    <!--
     <facsimile>
         <graphic url="photograph of text or monument"/>
     </facsimile>
+    -->
     <text>
         <body>
             <div type="edition" xml:space="preserve">
