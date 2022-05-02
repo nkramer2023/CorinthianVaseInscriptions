@@ -37,7 +37,7 @@
                             <origPlace>Corinth Forum Southwest</origPlace>
                             <origDate>fifth century BCE</origDate>
                         </origin>
-                        <provenance type="found"> Grid 73D + 82.017 -81.963 m
+                        <provenance type="found"> Forum Southwest. Grid 73D.
                         </provenance>
                         <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 265
                         </provenance>
@@ -48,7 +48,9 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="http://photograph"/>
+        <graphic url="c-1975-82.jpg">
+        <desc>Graffito.</desc>
+        </graphic>
     </facsimile>
     <text>
         <body>

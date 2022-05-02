@@ -48,7 +48,9 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="http://photograph"/>
+       <graphic url="c-1976-275.jpg">
+        <desc>Graffito.</desc>
+        </graphic>
     </facsimile>
     <text>
         <body>
