@@ -56,15 +56,14 @@
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/><g ref="#star"/>
+                    <lb n="1"/><g ref="star"/>
                 </ab>
             </div>
             <div type="apparatus">
                 <p>external apparatus criticus (if applicable)</p>
             </div>
             <div type="translation">
-                <p>
-</p>
+                <p></p>
             </div>
             <div type="commentary">
                 <p>This cup is Samaria form 33, made in Syria-Palestine.</p>
