@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Plain Ware Pitcher with Graffito</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C 1979 96</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                Pitcher with rounded shoulder, top of wide cylindrical neck, broad flaring rim, with convex undersurface, concave upper surface, and vertical handle round, narrow at shoulder attachment and wide at rim attachment. Undecorated 
+                                    <material/><objectType/><dimensions/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Graffito on upper surface rim on line with handle.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>One letter (alpha)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origDate>late 5th to early 4th c. BCE</origDate>
+                        </origin>
+                       <provenance type="found">Grid 62:B; Fifth c. dumped fill under south stoa colonnade; Elevation 081.104-080.074</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="c-1979-96.jpg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>α
+                </ab>
+            </div>
+            <div type="apparatus"><ab></ab></div>
+            <div type="translation"><ab></ab></div>
+            <div type="commentary"><ab></ab></div>
+            <div type="bibliography"><ab></ab></div>
+        </body>
+    </text>
+</TEI>
