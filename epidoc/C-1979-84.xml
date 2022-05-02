@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Local Red Ware Plate with Graffito</title>
+                <editor xml:id="tchang">Tiffany Chang</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="C-1979-84"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C-1979-84</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>graffito<material/>
+                                    <objectType/> red ware plate</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>4 letters</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>graffito on undersurface
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Forum South Central</origPlace>
+                            <origDate>Early Roman, 44 BCE to 1st half of 2nd c. AD</origDate>
+                        </origin>
+                        <provenance type="found"> Grid 49:C 50:C
+                        </provenance>
+                        <provenance type="observed">Museum Basement; Bay 54; Shelf 2
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#tchang" when="2022-05-02">Transcribed and encoded text </change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="C-1979-84.JPG"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>ΠΑΑ<unclear>Λ</unclear>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p></p>
+            </div>
+            <div type="translation">
+                <p></p>
+            </div>
+            <div type="commentary">
+                <p></p>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                             <bibl xml:id="mus-C-1979-84">Corinth Museum index card C-1979-84</bibl>
+                      </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>
