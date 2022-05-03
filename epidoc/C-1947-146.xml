@@ -47,9 +47,6 @@
             
         </fileDesc>
     </teiHeader>
-    <facsimile>
-        <graphic url="http://photograph"/>
-    </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
@@ -68,7 +65,7 @@
                 <p></p>
             </div>
             <div type="bibliography">
-                <p>Corinth VII.3 p.86 no.511</p>
+                <p>Edwards, G. R. (1975) Corinthian Hellenistic Pottery. Corinth VII.3. Princeton: p.86, no.511</p>
             </div>
         </body>
     </text>

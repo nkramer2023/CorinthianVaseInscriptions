@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Stemless kylix foot with graffito</title>
+                <title>Eastern sigillata A cup with graffito</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,31 +15,31 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1975 65</idno>
+                        <idno>C 1976 451</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>vase inscription (graffito) <material/>
-                                    and <objectType/> Single fragment broken all around, preserving most of foot profile. <dimensions/>, etc.)</support>
+                                    and <objectType/> Nine joining fragments give a complete base and about one-quarter of wall to just below lip. <dimensions/>, etc.)</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>seven letters</layout>
+                                <layout>Symbol inscribed on base</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>graffito on underside: first letter uncertain, mu, tau, alpha, rho, tau, alpha
+                            <handNote>graffito star formed by four crossing lines.
                             </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace>Corinth Forum Southwest</origPlace>
-                            <origDate>fifth century BCE</origDate>
+                            <origDate>Early Roman, first century CE</origDate>
                         </origin>
-                        <provenance type="found"> Southwest corner of later 5th c. BCE fill over earliest floor of pentagonal building
+                        <provenance type="found"> Forum Southwest. Grid 72-73: A-B. Top of Well 1960-1 Cellar Fill.
                         </provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 265
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Bay 51; Shelf 6
                         </provenance>
                     </history>
                 </msDesc>
@@ -48,7 +48,7 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-     <graphic url="c-1975-65.jpg">
+        <graphic url="c-1976-451.jpg">
         <desc>Graffito.</desc>
         </graphic>
     </facsimile>
@@ -56,18 +56,17 @@
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/><unclear reason="illegible" quantity="1" unit="character">δ</unclear>μταρτα
+                    <lb n="1"/><g ref="star"/>
                 </ab>
             </div>
             <div type="apparatus">
                 <p>external apparatus criticus (if applicable)</p>
             </div>
             <div type="translation">
-                <p>
-</p>
+                <p></p>
             </div>
             <div type="commentary">
-                <p>Perhaps this is a proper name?</p>
+                <p>This cup is Samaria form 33, made in Syria-Palestine.</p>
             </div>
             <div type="bibliography">
                 <p>bibliography of previous editions, discussion, etc.</p>

@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Stemless kylix foot with graffito</title>
+                <title>Black-glazed amphora rim fragment with graffito</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,31 +15,30 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1975 65</idno>
+                        <idno>C 1970 50</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>vase inscription (graffito) <material/>
-                                    and <objectType/> Single fragment broken all around, preserving most of foot profile. <dimensions/>, etc.)</support>
+                                    and <objectType/> Single fragment, broken on three sides, part of rim and small portion of neck preserved. <dimensions/>, etc.)</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>seven letters</layout>
+                                <layout>Four letters</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>graffito on underside: first letter uncertain, mu, tau, alpha, rho, tau, alpha
-                            </handNote>
+                            <handNote>graffito on lip: lamda, upsilon, mu, iota</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum Southwest</origPlace>
-                            <origDate>fifth century BCE</origDate>
+                            <origPlace>Corinth Forum Central</origPlace>
+                            <origDate></origDate>
                         </origin>
-                        <provenance type="found"> Southwest corner of later 5th c. BCE fill over earliest floor of pentagonal building
+                        <provenance type="found"> Forum Central 2. Trench 1, just above floor 7, area next to poros threshold block.
                         </provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 265
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 264
                         </provenance>
                     </history>
                 </msDesc>
@@ -48,7 +47,7 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-     <graphic url="c-1975-65.jpg">
+        <graphic url="c-1970-50.jpg">
         <desc>Graffito.</desc>
         </graphic>
     </facsimile>
@@ -56,7 +55,7 @@
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/><unclear reason="illegible" quantity="1" unit="character">δ</unclear>μταρτα
+                    <lb n="1"/>λυμι
                 </ab>
             </div>
             <div type="apparatus">
@@ -67,7 +66,7 @@
 </p>
             </div>
             <div type="commentary">
-                <p>Perhaps this is a proper name?</p>
+                <p>Perhaps this is an abbreviation?</p>
             </div>
             <div type="bibliography">
                 <p>bibliography of previous editions, discussion, etc.</p>

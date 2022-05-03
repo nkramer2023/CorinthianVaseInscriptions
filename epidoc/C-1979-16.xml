@@ -1,76 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Sherd with graffito</title>
+                <title>Attic Kylix Type C with Graffito</title>
+                <editor xml:id="tchang">Tiffany Chang</editor>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
-                <idno type="filename"></idno>
+                <idno type="C-1979-16"></idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1970 197</idno>
+                        <idno>C-1979-16</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>vase inscription (graffito) <material/>
-                                    and <objectType/> Single sherd from base of shallow bowl or plate (pink clay, black glaze), broken on all sides. <dimensions/>, etc.)</support>
+                                <support>graffito<material/>
+                                    <objectType/>Attic Kylix Type C</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>one letter</layout>
+                                <layout>2 letters</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>graffito inscribed on after firing: nu
+                            <handNote>Graffito on underside of foot, near torus edge.
                             </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum Central</origPlace>
-                            <origDate></origDate>
+                            <origPlace>Forum Southwest</origPlace>
+                            <origDate>Fifth c. BCE</origDate>
                         </origin>
-                        <provenance type="found"> Cobble floor and poros chips covering curb-step.
+                        <provenance type="found">Grid 62:B
                         </provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 264
+                        <provenance type="observed">Museum Basement; Bay 54; Shelf 4 
                         </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
-            
         </fileDesc>
+        <revisionDesc>
+            <change who="#tchang" when="2022-05-02">Transcribed and encoded text </change>
+        </revisionDesc>
     </teiHeader>
     <facsimile>
-       <graphic url="c-1970-197.jpg">
-        <desc>Graffito.</desc>
-        </graphic>
+        <graphic url="C-1979-16.JPG"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>ν
+                    <lb n="1"/>HO
                 </ab>
             </div>
             <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
+                <p></p>
             </div>
             <div type="translation">
-                <p>
-</p>
+                <p></p>
             </div>
             <div type="commentary">
                 <p></p>
             </div>
             <div type="bibliography">
-                <p></p>
+                <listBibl>
+                             <bibl xml:id="mus-C-1979-16">Corinth Museum index card C-1979-16</bibl>
+                      </listBibl>
             </div>
         </body>
     </text>
