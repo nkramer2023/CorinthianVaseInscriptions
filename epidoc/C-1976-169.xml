@@ -37,7 +37,7 @@
                             <origPlace>Corinth Forum Southwest</origPlace>
                             <origDate></origDate>
                         </origin>
-                        <provenance type="found"> Fill in Room with stair. Grid 72-73A, 80.992 to 80-.450 meters.
+                        <provenance type="found"> Fill in Room with stair. Grid 72-73A, 80.992 to 80.450 meters.
                         </provenance>
                         <provenance type="observed">ASCSA Corinth Museum Basement; Bay 93; Shelf 2
                         </provenance>
@@ -59,18 +59,8 @@
                     <lb n="1"/>ν
                 </ab>
             </div>
-            <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
-            </div>
-            <div type="translation">
-                <p>
-</p>
-            </div>
             <div type="commentary">
                 <p>Perhaps this is an abbreviation?</p>
-            </div>
-            <div type="bibliography">
-                <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
     </text>
