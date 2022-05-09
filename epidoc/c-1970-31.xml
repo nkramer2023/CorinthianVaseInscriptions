@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Skyphos Base Fragment with Graffito</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C 1970 31</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                <p>Single fragment, preserving part of base and lower body of a skyphos cup. </p>
+                                    <material/><objectType/><dimensions/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Underside of base, with miltos, concentric rings of dilute black glaze.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>One large, graffito M. "Crudely scratched after firing."</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum Sacred Spring West</origPlace>
+                            <origDate>Unknown</origDate>
+                        </origin>
+                       <provenance type="found">Trench 2</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="c-1970-31.jpg"><desc>Graffito</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <p>
+                    <lb n="1"/>μ
+                </p>
+            </div>
+            <div type="apparatus"><p></p></div>
+            <div type="translation"><p></p></div>
+            <div type="commentary"><p></p></div>
+            <div type="bibliography"><p></p></div>
+        </body>
+    </text>
+</TEI>

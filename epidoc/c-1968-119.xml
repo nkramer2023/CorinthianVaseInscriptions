@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wing Amphora Rim with Graffito</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C 1968 119</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                <p>Wide neck, oval amphora. Five mended fragments perserving rim and upper part of neck.</p>
+                                    <material/><objectType/><dimensions/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>On top of the rim</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Four (?) graffito letters, with space between the lambda and the chi. Possible C-like gamma between chi and alpha, or a poorly preserved omicron.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum Sacred Spring</origPlace>
+                            <origDate>Unknown</origDate>
+                        </origin>
+                       <provenance type="found">Trench 1, fill of Floor 14</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="c-1968-119.jpg"><desc>Graffito</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <p>
+                    <lb n="1"/>λ <space extent="2" unit="character"/>χ<unclear>c</unclear>α
+                </p>
+            </div>
+            <div type="apparatus"><p></p></div>
+            <div type="translation"><p></p></div>
+            <div type="commentary">
+                <p>Possibly poorly preserved name, possibly an identifier of some kind.</p>
+            </div>
+            <div type="bibliography"><p></p></div>
+        </body>
+    </text>
+</TEI>

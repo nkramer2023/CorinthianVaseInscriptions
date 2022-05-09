@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Amphora Body with Graffito</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C 1971 687</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                <p>Two single body fragments, broken all around, from an amphora with rounded shoulder.</p>
+                                    <material/><objectType/><dimensions/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Graffito incised on unglazed clay.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Two or three letters. Two tips of vertical strokes, possibly two iotas or an eta, before a Kappa.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origDate>Late Roman or Byzantine</origDate>
+                        </origin>
+                       <provenance type="found">Good Things From Good Places</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="c-1971-687.jpeg"><desc>Graffito</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <p>
+                    <lb n="1"/><unclear>η</unclear>κ
+                </p>
+            </div>
+            <div type="apparatus"><p></p></div>
+            <div type="translation"><p></p></div>
+            <div type="commentary"><p></p></div>
+            <div type="bibliography"><p></p></div>
+        </body>
+    </text>
+</TEI>

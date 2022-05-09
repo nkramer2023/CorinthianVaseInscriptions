@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Attic Sessile Kantharos with Low Handles, Stamped Decoration, and Graffito (fragments)</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C 1970 408</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                <p>Sessile Kantharos with low handles, stamped palmetto and ovules decoration.</p>
+                                    <material/><objectType/><dimensions/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Undersurface of foot, black glaze.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Perhaps a ligature of some kind, with two letters on top of each other. Top letter looks like an "R" and bottom a slanted, lowercase "b" or an upside-down rho.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum West</origPlace>
+                            <origDate>Unknown</origDate>
+                        </origin>
+                       <provenance type="found">Trench 4 North, Well 1</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="c-1970-408-d.jpg"><desc>Fragment D, graffito</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <p>
+                    <lb n="1"/><hi rend="ligature"><unclear>rb</unclear></hi>
+                </p>
+            </div>
+            <div type="apparatus"><p></p></div>
+            <div type="translation"><p></p></div>
+            <div type="commentary"><p></p></div>
+            <div type="bibliography"><p></p></div>
+        </body>
+    </text>
+</TEI>
