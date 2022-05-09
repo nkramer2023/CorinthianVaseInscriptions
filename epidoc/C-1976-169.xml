@@ -1,79 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Two Fragments of a West Slope Kantharos</title>
-                <editor xml:id="tchang">Tiffany Chang</editor>
+                <title>Corinthian B Amphora with Dipinto</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
-                <idno type="C-1947-121-A&amp;B"></idno>
+                <idno type="filename"></idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C-1947-121A,B</idno>
+                        <idno>C 1976 169</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>Kantharos, inscription<material/>
-                                  </support>
+                                <support>vase inscription (dipinto) <material/>
+                                    and <objectType/> Corinthian B Amphora single rim fragment, comprising nearly half of rim, neck, and upper handle attachment. <dimensions/>, etc.)</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>description of text field/campus</layout>
+                                <layout>one letter</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>One letter on A and two letters on B
+                            <handNote>painted on with red paint on front face of neck at level of upper handle attachment
                             </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>South Stoa E</origPlace>
-                            <origDate>Hellenistic</origDate>
+                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origDate></origDate>
                         </origin>
-                        <provenance type="found"> Well III
+                        <provenance type="found"> Fill in Room with stair. Grid 72-73A, 80.992 to 80-.450 meters.
                         </provenance>
-                        <provenance type="observed">
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Bay 93; Shelf 2
                         </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
+            
         </fileDesc>
-        <revisionDesc>
-            <change who="#tchang" when="2022-04-18"></change>
-        </revisionDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://drive.google.com/file/d/1CNlBmZpB7IRxQRJfZ-1bj1M1hit4lLjv/view?usp=sharing"/>
+        <graphic url="c-1976-169.jpg">
+        <desc>Dipinto.</desc>
+        </graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>H...HC
+                    <lb n="1"/>ν
                 </ab>
             </div>
             <div type="apparatus">
                 <p>external apparatus criticus (if applicable)</p>
             </div>
             <div type="translation">
-                <p>translation(s)</p>
+                <p>
+</p>
             </div>
             <div type="commentary">
-                <p>commentary</p>
+                <p>Perhaps this is an abbreviation?</p>
             </div>
             <div type="bibliography">
-                <listBibl>
-                             <bibl xml:id="mus-C-1947-121A,B">Corinth Museum index card C-1947-121A,B</bibl>
-                               <bibl>Corinth VII, iii. #493, p. 86</bibl>
-                      </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
     </text>

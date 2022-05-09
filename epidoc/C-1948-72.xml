@@ -1,79 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Two Fragments of a West Slope Kantharos</title>
-                <editor xml:id="tchang">Tiffany Chang</editor>
+                <title>Fragmentary Coarseware Pot with Dipinto</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
-                <idno type="C-1947-121-A&amp;B"></idno>
+                <idno type="filename"></idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C-1947-121A,B</idno>
+                        <idno>C 1948 72</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>Kantharos, inscription<material/>
-                                  </support>
+                                <support>vase inscription (dipinto) <material/>
+                                    and <objectType/> Five non-joining fragments, preserving part of lip, three handles, and sections of the upper body. <dimensions/>, etc.)</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>description of text field/campus</layout>
+                                <layout>three lines</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>One letter on A and two letters on B
+                            <handNote>dipinto below the lip in two lines; illegible part of a single-letter dipinto in black on fragment B or C.
                             </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>South Stoa E</origPlace>
+                            <origPlace>Corinth South Stoa</origPlace>
                             <origDate>Hellenistic</origDate>
                         </origin>
-                        <provenance type="found"> Well III
+                        <provenance type="found"> South Stoa Well XIV.
                         </provenance>
-                        <provenance type="observed">
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Hellenistic Shelf 1
                         </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
+            
         </fileDesc>
-        <revisionDesc>
-            <change who="#tchang" when="2022-04-18"></change>
-        </revisionDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://drive.google.com/file/d/1CNlBmZpB7IRxQRJfZ-1bj1M1hit4lLjv/view?usp=sharing"/>
+        <graphic url="https://ascsa.net/image?type=full&amp;id=Corinth%3AImage%3Abw%201962%20040%2032">
+        <desc></desc>
+        </graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>H...HC
+                    <lb n="1"/>ακυμλ
+                    <lb n="2"/>λδ
+                    <lb n="3"/><gap reason="illegible" quantity="1" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">
                 <p>external apparatus criticus (if applicable)</p>
             </div>
             <div type="translation">
-                <p>translation(s)</p>
+                <p>
+</p>
             </div>
             <div type="commentary">
-                <p>commentary</p>
+                <p>Perhaps this is an ownership inscription?</p>
             </div>
             <div type="bibliography">
-                <listBibl>
-                             <bibl xml:id="mus-C-1947-121A,B">Corinth Museum index card C-1947-121A,B</bibl>
-                               <bibl>Corinth VII, iii. #493, p. 86</bibl>
-                      </listBibl>
+                <p>Corinth VII, iii p. 105, ft. 4</p>
             </div>
         </body>
     </text>

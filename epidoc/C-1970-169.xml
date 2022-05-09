@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Flat Clay Grinder with Graffito</title>
+                <title>Base with Graffito</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,51 +15,63 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1937 2863</idno>
+                        <idno>C 1970 169</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>
-                                One fragment preserving approximately one half of a flat pounder with rounded grinding surface of an oval shape.
-                                    <material/><objectType/><dimensions/>
-                                </support>
+                                <support>vase inscription (graffito) <material/>
+                                    and <objectType/> Single sherd, preserving part of base and of lower body. <dimensions/>, etc.)</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Grey temper, surface covered with thick buff slip, written on downward sloping exterior</layout>
+                                <layout>one letter</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>One letter (delta)</handNote>
+                            <handNote>inscribed on bottom of base: mu or sigma
+                            </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum South Central</origPlace>
-                            <origDate>Late 5th to Early 4th B.C.</origDate>
+                            <origPlace>Corinth Sacred Spring Central</origPlace>
+                            <origDate></origDate>
                         </origin>
-                        <provenance type="found">Grid 50:L; Well 1937-L at (B)-(C):18-19</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="found"> Southeast of mudbrick altar.
+                        </provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 222
+                        </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
+            
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="c-1937-2863.jpg" />
+        <graphic url="c-1970-169.jpg">
+        <desc>Graffito.</desc>
+        </graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>
-                    δ
+                    <lb n="1"/><unclear>μ</unclear>
                 </ab>
             </div>
-            <div type="apparatus"><ab></ab></div>
-            <div type="translation"><ab></ab></div>
-            <div type="commentary"><ab></ab></div>
-            <div type="bibliography"><ab></ab></div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>
+</p>
+            </div>
+            <div type="commentary">
+                <p>Perhaps this is an ownership inscription?</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
         </body>
     </text>
 </TEI>

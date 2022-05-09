@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Flat Clay Grinder with Graffito</title>
+                <title>Imported Transport Amphora with Graffito</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,51 +15,63 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1937 2863</idno>
+                        <idno>C 1978 344</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>
-                                One fragment preserving approximately one half of a flat pounder with rounded grinding surface of an oval shape.
-                                    <material/><objectType/><dimensions/>
-                                </support>
+                                <support>vase inscription (graffito) <material/>
+                                    and <objectType/> Two joining fragments, preserving upper neck to rim. <dimensions/>, etc.)</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Grey temper, surface covered with thick buff slip, written on downward sloping exterior</layout>
+                                <layout>one line</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>One letter (delta)</handNote>
+                            <handNote>graffito scratched on neck below rim after firing: alpha
+                            </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth Forum South Central</origPlace>
-                            <origDate>Late 5th to Early 4th B.C.</origDate>
+                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origDate>Fifth Century BCE</origDate>
                         </origin>
-                        <provenance type="found">Grid 50:L; Well 1937-L at (B)-(C):18-19</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="found"> Punic Amphora Building fill in corridor and over wall 5.
+                        </provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 336
+                        </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
+            
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="c-1937-2863.jpg" />
+        <graphic url="c-1978-344.jpg">
+        <desc>Graffito.</desc>
+        </graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>
-                    δ
+                    <lb n="1"/>α
                 </ab>
             </div>
-            <div type="apparatus"><ab></ab></div>
-            <div type="translation"><ab></ab></div>
-            <div type="commentary"><ab></ab></div>
-            <div type="bibliography"><ab></ab></div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>
+</p>
+            </div>
+            <div type="commentary">
+                <p>Perhaps this is an abbreviation?</p>
+            </div>
+            <div type="bibliography">
+                <p></p>
+            </div>
         </body>
     </text>
 </TEI>
