@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Black-glazed amphora rim fragment with graffito</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C 1970 50</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>vase inscription (graffito) <material/>
+                                    and <objectType/> Single fragment, broken on three sides, part of rim and small portion of neck preserved. <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Four letters</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>graffito on lip: lamda, upsilon, mu, iota</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum Central</origPlace>
+                            <origDate></origDate>
+                        </origin>
+                        <provenance type="found"> Forum Central 2. Trench 1, just above floor 7, area next to poros threshold block.
+                        </provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 264
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="c-1970-50.jpg">
+        <desc>Graffito.</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>λυμι
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>
+</p>
+            </div>
+            <div type="commentary">
+                <p>Perhaps this is an abbreviation?</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

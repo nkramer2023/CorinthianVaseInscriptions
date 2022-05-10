@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>C 1977 251</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority/>
+                    <idno type="filename">C 1977 251</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                            <idno>C 1977 251</idno>
+                    </msIdentifier>
+                    <physDesc>
+                    <objectDesc>
+                        <supportDesc>
+                            <support>
+                                <p>Fragment from near the top of a flat sloping shoulder</p>
+                                    <objectType>pitcher</objectType>
+                                <material>fine, loosely compacted soft pink fabric with some tiny sparkling inclusions</material>
+                                <dimensions>
+                                    <height>.025</height>
+                                    <width>.045</width>
+                                </dimensions>
+                            </support>
+                        </supportDesc>
+                        <layoutDesc>
+                            <layout>pinkish-white slip</layout>
+                        </layoutDesc>
+                    </objectDesc>
+                    <handDesc>
+                        <handNote/>
+                    </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Unknown, probably Corinth</origPlace>
+                            <origDate>5th century BCE</origDate>
+                        </origin>
+                        <provenance type="found">
+                            <p>Forum Southwest</p>
+                            <p>Building V, amphora packing against East-West stone drain</p>
+                            <p>Grid Nos.: 69-70:C</p>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                <lb n="1"/>
+                <unclear>Α</unclear><gap reason="lost" unit="character" quantity="1"/>
+                </ab>
+            </div>
+            <div type="apparatus">
+            </div>
+            <div type="translation">
+            </div>
+            <div type="commentary">
+            </div>
+            <div type="bibliography">
+            </div>
+        </body>
+    </text>
+</TEI>
+

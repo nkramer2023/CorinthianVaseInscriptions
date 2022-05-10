@@ -47,14 +47,16 @@
             
         </fileDesc>
     </teiHeader>
-    <facsimile>
-        <graphic url="photograph of text or monument"/>
-    </facsimile>
+        <!-- 
+    <facsimile><graphic url="photograph of text or monument"/>
+    </facsimile> -->
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
+                
                     <lb n="1"/><unclear>Δ</unclear>ιον<unclear>υ</unclear><supplied reason="lost">σος</supplied>
+
                 </ab>
             </div>
             <div type="apparatus">

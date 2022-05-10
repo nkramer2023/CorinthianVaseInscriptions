@@ -46,9 +46,7 @@
             
         </fileDesc>
     </teiHeader>
-    <facsimile>
-        <graphic url="photograph of text or monument"/>
-    </facsimile>
+    
     <text>
         <body>
             <div type="edition" xml:space="preserve">
