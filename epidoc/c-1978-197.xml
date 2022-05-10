@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Corinthian Saltcellar with Convex Walls</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C 1978 197</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                Ring foot of saltcellar with torus profile, flat undersurface, and deep ovoid body. Decorated with a total black glaze of exterior and interior. 
+                                    <material/><objectType/><dimensions/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Graffito letter on black glazed underside</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>One letter (nu)</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origDate>Beginning of 4th c. BCE</origDate>
+                        </origin>
+                        <provenance type="found">Grid 61:B 61:C; Destruction debris within building IV in cellar; Elevation 080.886-078.464</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="c-1978-197"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>ν
+                </ab>
+            </div>
+            <div type="apparatus"><ab></ab></div>
+            <div type="translation"><ab></ab></div>
+            <div type="commentary">
+                <ab>Probably a claiming/identifying mark of some kind</ab>
+            </div>
+            <div type="bibliography">
+                <ab>Hesperia 1979, p.135 #53</ab>
+            </div>
+        </body>
+    </text>
+</TEI>
