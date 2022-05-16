@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Local Imitation of Haltern B Cup with Graffito</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C 1979 45</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                Cup with low ring foot, narrow resting surface, and nippled undersurface. Wide flaring concave body, offset vertical rim. Local imitation of Haltern B. Though the artefact is unglazed, there are traces of red and black glaze on exterior walls.
+                                    <material/><objectType/><dimensions/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Unglazed orange clay, graffito circles around wall of cup before foot.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Five letters, incised in messy hand. Sigma, pi/rho, eta, iota, nu.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origDate>Unknown</origDate>
+                        </origin>
+                       <provenance type="found">Grid 65:E 66:E; Road Fill; 080.742-080.571</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="c-1979-45.jpg" n="1"/>
+        <graphic url="c-1979-45-2.jpg" n="2"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb n="1"/>σ<unclear>π</unclear>ηιν
+                </ab>
+            </div>
+            <div type="apparatus"><ab></ab></div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab>The letters form no known word, so they might be a grouping of abbreviations. It is also possible either our interpretations of the letters are incorrect or the letters themselves were written in a hand unrecognizable even to contemporaries.</ab>
+            </div>
+            <div type="bibliography"><ab></ab></div>
+        </body>
+    </text>
+</TEI>
