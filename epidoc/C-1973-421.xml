@@ -18,13 +18,8 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>
-                                    <p>
-                                        <material> Fine pinkish-buff clay </material> 
-                                       
-                                        <objectType>Band cup with slight convex profile to body, 2 single frgt. broken all around</objectType>
-                                    </p>
-                                </support>
+                                <support>vase inscription (dipinto)<material/>
+                                    and <objectType/> Attic band cup</support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>Two letters</layout>
@@ -37,7 +32,7 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Forum Southwest, Deposit under lowest poros chip floor immediately south of the dionysian</origPlace>
+                            <origPlace>Forum Southwest</origPlace>
                             <origDate>58 BCE</origDate>
                         </origin>
                         <provenance type="found"> Forum Southwest Attica 62:H 62:J 63: H 63:J 64:H 64: J
@@ -50,7 +45,7 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://tiffanyhyunkyung.files.wordpress.com/2022/01/screen-shot-2022-01-28-at-3.26.07-pm.png?w=260"/> 
+        <graphic url=""/> 
     </facsimile>
     <text>
         <body>

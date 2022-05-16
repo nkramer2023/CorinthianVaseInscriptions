@@ -13,18 +13,13 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1976 199</idno>
+                        <idno>C-1976-199</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>
-                                    <p>
-                                        <material> Coarse gritty red clay, white slip, red paint </material> 
-                                        
-                                        <objectType>Single fragment proken all around. Body sher from storage amphora (?) preserving steep shoulder tapering to cylindrical neck. White slip over exterior. Dipinto in red at top of shoulder.</objectType>
-                                    </p>
-                                </support>
+                             <support>dipinto<material/>
+                                    and <objectType/> storage amphora</support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>Single line of text, 4 letters</layout>
@@ -38,7 +33,7 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Forum SW</origPlace>
+                            <origPlace>Forum Southwest</origPlace>
                             <origDate></origDate>
                         </origin>
                         <provenance type="found"> Grid 72-3: A-B. Roman Cellar Fill, 81.858 to 81.496
@@ -51,7 +46,7 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://tiffanyhyunkyung.files.wordpress.com/2022/01/screen-shot-2022-01-28-at-3.39.19-pm.png?w=504"/> 
+        <graphic url=""/> 
     </facsimile>
     <text>
         <body>
