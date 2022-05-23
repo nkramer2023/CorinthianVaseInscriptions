@@ -21,7 +21,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>graffito <material/>
-                                    and <objectType/> Kotyle <dimensions/>, etc.)</support>
+                                    and <objectType/> Kotyle </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>three letters</layout>
@@ -48,7 +48,7 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://drive.google.com/file/d/1FWT3JqAo2zO1t2felTZOx92jbL91B2vS/view?usp=sharing"/>
+        <graphic url="c-1978-361.jpeg"/>
     </facsimile>
     <text>
         <body>

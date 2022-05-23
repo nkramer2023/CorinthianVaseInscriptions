@@ -21,7 +21,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>graffito <material/>
-                                    and <objectType/> Transport Amphora <dimensions/>, etc.)</support>
+                                    and <objectType/> Transport Amphora </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>three letters</layout>
@@ -48,7 +48,7 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://drive.google.com/file/d/1f0fl074cOJI6yVQmvKqjH2bmaQT5wOHp/view?usp=sharing"/>
+        <graphic url="c-1979-97.jpeg"/>
     </facsimile>
     <text>
         <body>
