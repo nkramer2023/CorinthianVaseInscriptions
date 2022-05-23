@@ -20,15 +20,16 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>vase inscription (dipinto) <material/>
-                                    and <objectType/> Chiot transport amphora, fragment of upper part of convex section of neck with offset rim, ovoid in section, with flattened inward sloping top; mouth ovoid. Traces of red paint on neck below rim and black dipinto with omicron on neck. <dimensions/>, etc.)</support>
+                                <support>
+                                <objectType> Chiot transport amphora, fragment of upper part of convex section of neck with offset rim, ovoid in section, with flattened inward sloping top; mouth ovoid.</objectType>
+                                </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Single letter in black paint on neck. </layout>
+                                <layout>Single letter in black paint on neck. Traces of red paint on neck below rim.  </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>
+                            <handNote>dipinto in black paint: omicron
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -46,8 +47,10 @@
             
         </fileDesc>
     </teiHeader>
-    <facsimile>
-        <graphic url="http://photograph"/>
+     <facsimile>
+        <graphic url="c-1978-97.jpg">
+   <desc>Dipinto.</desc>
+        </graphic>      
     </facsimile>
     <text>
         <body>
@@ -56,17 +59,8 @@
                     <lb n="1"/>κ
                 </ab>
             </div>
-            <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
-            </div>
-            <div type="translation">
-                <p></p>
-            </div>
             <div type="commentary">
                 <p>As this is only the Greek letter kappa, perhaps it's an abbreviation?</p>
-            </div>
-            <div type="bibliography">
-                <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
     </text>

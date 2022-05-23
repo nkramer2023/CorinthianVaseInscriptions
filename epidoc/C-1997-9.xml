@@ -20,15 +20,16 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>vase inscription (graffito) <material/>
-                                    and <objectType/> Attic black-glazed cup <dimensions/>, etc.)</support>
+                                <support>
+                                <objectType> Attic black-glazed cup </objectType>, etc.)
+                                </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>one line</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>scratched in along with drawing of running figure 
+                            <handNote>scratched in along with drawing of running figure: pi, alpha, sigma, epsilon, alpha, sigma 
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -48,7 +49,9 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="http://corinth.ascsa.net/id/corinth/image/bw%201997%20016%2016?q=references%3A%22Corinth%3AObject%3AC%201997%209%22amp;t=amp;v=iconsamp;sort=rating%20desc%2C%20sort%20ascamp;s=3"/>
+        <graphic url="http://corinth.ascsa.net/id/corinth/image/bw%201997%20016%2016?q=references%3A%22Corinth%3AObject%3AC%201997%209%22amp;t=amp;v=iconsamp;sort=rating%20desc%2C%20sort%20ascamp;s=3">
+     <desc>Graffito.</desc>
+        </graphic>
     </facsimile>
     <text>
         <body>
@@ -57,18 +60,12 @@
                     <lb n="1"/>Πασεας
                 </ab>
             </div>
-            <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
-            </div>
             <div type="translation">
                 <p>Paseas
 </p>
             </div>
             <div type="commentary">
                 <p>Paseas appears to be a proper name, perhaps captioning the running figure?</p>
-            </div>
-            <div type="bibliography">
-                <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
     </text>
