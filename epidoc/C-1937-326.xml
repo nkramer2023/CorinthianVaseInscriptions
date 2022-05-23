@@ -44,14 +44,14 @@
                             <origDate>Unknown</origDate>
                         </origin>
                         <provenance type="found"> Well at b-c:18-19; Grid 50:L </provenance>
-                        <provenance type="observed">ASCSA Corinth Basement</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 271</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ascsa.net/CacheIcons//Corinth/Photos/negatives/year_roll/1979_024/1979_st_024_018.jpg.icon.jpg"/>
+        <graphic url="c-1937-326.jpeg"/>
     </facsimile>
     <text>
         <body>
