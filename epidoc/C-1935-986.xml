@@ -9,7 +9,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority/>
-                    <idno type="filename">C 1935 986</idno>
+                    <idno type="filename"></idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -22,11 +22,9 @@
                         <supportDesc>
                             <support>
                                 Corinthian B transport amphora with short, wide neck, a thickened rim with a rounded profile flaring outward, triangular in section, broad flat lip. Vertical strap handle attached to top neck.
-                                <material>Fine, well-fired and compacted pale, pinkish buff clay</material>
-                                <objectType>Transport Amphora</objectType>
-                                <dimensions>
-                                    <height>.118</height>
-                                </dimensions>
+                                <material/>
+                                <objectType/>
+                                <dimensions/>
                             </support>
                         </supportDesc>
                         <layoutDesc>
@@ -35,23 +33,23 @@
                     </objectDesc>
                     <handDesc>
                         <handNote>
-                            Illegible
+                            Cross symbol
                         </handNote>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Corinth, Forum West</origPlace>
+                            <origPlace>Corinth Forum West</origPlace>
                             <origDate>Unknown</origDate>
                         </origin>
-                        <provenance type="found"> Well under edge of western stairs </provenance>
+                        <provenance type="found">Well under edge of western stair; Well 1935-7</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="photograph of text or monument"/>
+        <graphic url="https://ascsa.net/id/corinth/object/c%201935%20986?q=c%201935%20986&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
     </facsimile>
     <text>
         <body>

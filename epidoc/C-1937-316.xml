@@ -9,7 +9,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority/>
-                    <idno type="filename">C-1937-316</idno>
+                    <idno type="filename"/>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -21,12 +21,10 @@
                     <objectDesc>
                         <supportDesc>
                             <support>
-                                Corinthian B transport amphora with short, wide neck, a thickened rim with a rounded profile flaring outward, triangular in section, broad flat lip. Vertical strap handle attached to top neck.
-                                <material>Fine, well-fired and compacted pale, pinkish buff clay</material>
-                                <objectType>Transport Amphora</objectType>
-                                <dimensions>
-                                    <height>.135</height>
-                                </dimensions>
+                                <p>Corinthian B transport amphora with short, wide neck, a thickened rim with a rounded profile flaring outward, triangular in section, broad flat lip. Vertical strap handle attached to top neck.</p>
+                                <material/>
+                                <objectType/>
+                                <dimensions/>
                             </support>
                         </supportDesc>
                         <layoutDesc>
@@ -43,13 +41,14 @@
                             <origDate>Classical</origDate>
                         </origin>
                         <provenance type="found"> No findspot given </provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement (Bay 93; Shelf 5)</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="photograph of text or monument"/>
+        <graphic url="https://ascsa.net/id/corinth/object/c%201937%20316?q=c%201937%20316&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
     </facsimile>
     <text>
         <body>
