@@ -6,10 +6,11 @@
         <fileDesc>
             <titleStmt>
                 <title>Corinthian B Amphora Neck</title>
+                <title><rs type="textType">Dipinto</rs></title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
-                    <idno type="filename">C 1971 685</idno>
+                    <idno type="filename"/>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -21,43 +22,42 @@
                     <objectDesc>
                         <supportDesc>
                             <support>
-                                <material>Fine, off-white clay</material>
-                                <objectType>Transport/storage amphora</objectType>
-                                <dimensions>
-                                    <height>.135</height>
-                                </dimensions>
+                                <material/>
+                                <objectType/>
+                                <dimensions/>
                             </support>
                         </supportDesc>
                         <layoutDesc>
-                            <layout>White canvas</layout>
+                            <layout>Dipinto underneath flaring neck.</layout>
                         </layoutDesc>
                     </objectDesc>
                     <handDesc>
-                        <handNote/>
+                        <handNote>Two lines of Greek, with lacunae between letters; beta pi / psi or upsilon</handNote>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace>Corinth, Forum Southwest</origPlace>
-                            <origDate>Classical</origDate>
+                            <origDate>Unknown</origDate>
                         </origin>
-                        <provenance type="found"> Unknown findspot; "good things from bad places" </provenance>
+                        <provenance type="found">good things from bad places</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Bay 93; Shelf 3</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="photograph of text or monument"/>
+        <graphic url="https://ascsa.net/id/corinth/image/bw%202000%20057%2019?q=C%201971%20685&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
                 <lb n="1"/>
-                B P <gap reason="lost" extent="unknown" unit="character"/>
+                βπ<gap reason="lost" extent="unknown" unit="character"/>
                 <lb n="2"/>
-                Ψ or Υ
+                ψ
                 </ab>
             </div>
             <div type="apparatus">

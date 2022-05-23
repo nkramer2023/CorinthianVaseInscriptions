@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Roman Course-Ware Sherd, Dipinto</title>
+                <title><rs type="textType">Dipinto</rs></title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C 1963 97</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                <p>Sherd from joint of neck to the belly of a pot.</p>
+                                    <material/><objectType/><dimensions/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Reddish-buff clay sherd</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Two letters, nu then theta. Theta has elongated cross-stroke, maybe of a ligature or simply a slip of the painter's hand.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origDate>Unknown</origDate>
+                        </origin>
+                       <provenance type="found">Section J; South area, Roman Fill</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 273</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="c-1963-97.jpg"><desc>Dipinto</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <p>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>νθ
+                </p>
+            </div>
+            <div type="apparatus"><p></p></div>
+            <div type="translation"><p></p></div>
+            <div type="commentary">
+                <p>Length and shape of cross-stroke of theta suggest a ligature of some kind, possibly for the genitive ending for "Κορινθος" or some sort of locative ligature.</p>
+            </div>
+            <div type="bibliography"><p></p></div>
+        </body>
+    </text>
+</TEI>
