@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Stamped Arretine Fragment with Graffito</title>
+                <title><rs type="textType">Ownership</rs></title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
@@ -15,7 +16,7 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                            <idno>C-1974-108</idno>
+                            <idno>C 1974 108</idno>
                     </msIdentifier>
                     <physDesc>
                     <objectDesc>

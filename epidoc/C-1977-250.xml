@@ -42,12 +42,10 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Probably Corinth</origPlace>
+                            <origPlace>Forum Southwest</origPlace>
                             <origDate>5th century BCE</origDate>
                         </origin>
-                        <provenance type="found">
-                            <p>Forum Southwest</p><p>Building V, amphora packing against East-West stone drain</p><p>Grid Nos.: 69-70:C</p>
-                        </provenance>
+                        <provenance type="found">Building V; amphora packing against East-West stone drain; Grid 69-70:C</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>

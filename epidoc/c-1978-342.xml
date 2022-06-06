@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Corinthian Saltcellar with Convex Walls</title>
+                <title>Imported Transport Amphora</title>
                 <title><rs type="textType">Ownership</rs></title>
             </titleStmt>
             <publicationStmt>
@@ -16,29 +16,30 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C 1978 197</idno>
+                        <idno>C 1978 342</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                Ring foot of saltcellar with torus profile, flat undersurface, and deep ovoid body. Decorated with a total black glaze of exterior and interior.</support>
+                                <p>Several joining fragments, from the neck to the rim</p>
+                                </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Graffito letter on black glazed underside</layout>
+                                <layout>Dipinto at base of neck</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>One letter (nu)</handNote>
+                            <handNote>two thirds of a slant-barred epsilon</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace>Corinth Forum Southwest</origPlace>
-                            <origDate>Beginning of 4th c. BCE</origDate>
+                            <origDate>5th c. BCE</origDate>
                         </origin>
-                        <provenance type="found">Grid 61:B 61:C; Destruction debris within building IV in cellar; Elevation 080.886-078.464</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                       <provenance type="found">Grid 67:C 68:C; Punic Amphora Building Courtyard Poros Floor, 3 from bottom and underlying fill; Elevation 080.597-080.232</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Bay 91; Shelf 2</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -46,23 +47,19 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="c-1978-197"/>
+        <graphic url="corinth.jpg"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
-                <ab>
-                    <lb n="1"/>ν
-                </ab>
+                <p>
+                    <lb n="1"/>ε
+                </p>
             </div>
-            <div type="apparatus"><ab></ab></div>
-            <div type="translation"><ab></ab></div>
-            <div type="commentary">
-                <ab>Probably a claiming/identifying mark of some kind</ab>
-            </div>
-            <div type="bibliography">
-                <ab>Hesperia 1979, p.135 #53</ab>
-            </div>
+            <div type="apparatus"><p></p></div>
+            <div type="translation"><p></p></div>
+            <div type="commentary"><p></p></div>
+            <div type="bibliography"><p></p></div>
         </body>
     </text>
 </TEI>

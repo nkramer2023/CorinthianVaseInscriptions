@@ -53,7 +53,7 @@
         <body>
             <div type="edition" xml:space="preserve">
                 <p>
-                    <lb n="1"/>]γαδ σκ[
+                    <lb n="1"/><gap reason="lost" unit="character" extent="unknown"/>γαδ σκ<gap reason="lost" unit="character" extent="unknown"/>
                 </p>
             </div>
             <div type="apparatus"><p></p></div>

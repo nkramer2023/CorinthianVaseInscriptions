@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Eastern Sigillata B Stamped Base with Graffito</title>
+                <title><rs type="textType">Ownership</rs></title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -47,8 +48,8 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="C-1979-37.JPG"/>
-        <graphic url="C-1979-37-2.JPG"/>
+        <graphic url="C-1979-37.JPG"><desc>Stamp</desc></graphic>
+        <graphic url="C-1979-37-2.JPG"><desc>Graffito</desc></graphic>
     </facsimile>
     <text>
         <body>

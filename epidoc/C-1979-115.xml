@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Corinthian One-Handled Kantharos with Graffito</title>
+                <title><rs type="textType">Ownership</rs></title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -39,7 +40,7 @@
                             <origDate>4th Century BCE</origDate>
                         </origin>
                         <provenance type="found">Grid 50:C; dumped fill-in cistern 1979-1</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Bay 54; Shelf 2</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -47,7 +48,7 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/z6RDkcY"/>
+        <graphic url="c-1979-115.jpg"/>
     </facsimile>
     <text>
         <body>

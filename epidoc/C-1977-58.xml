@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>C 1977 58</title>
+                <title>Attic Red Figure Kylix with Dipinto</title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
@@ -14,67 +14,61 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>museum/archive</repository>
-                            <idno>inventory number</idno>
+                        <repository>ASCSA Corinth</repository>
+                            <idno>C 1977 58</idno>
                     </msIdentifier>
                     <physDesc>
                     <objectDesc>
                         <supportDesc>
                             <support>
-                                description of object/monument (likely to include
+                                Fragment from the wall of an Attic Kylix with wide flaring profile. 
                                 <material/>
-                                    and
                                 <objectType/>
-                                    information,
                                 <dimensions/>
-                                    , etc.)
                             </support>
                         </supportDesc>
                         <layoutDesc>
-                            <layout>description of text field/campus</layout>
+                            <layout>Tondo decoration has back part of head, neck, and bare shoulder of man in red-figure relief</layout>
                         </layoutDesc>
                     </objectDesc>
                     <handDesc>
                         <handNote>
-                            description of letters, possibly including
-                            <height>letter-heights</height>
+                            Three small, concise white letters.
                         </handNote>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Place of origin</origPlace>
-                            <origDate>Date of origin</origDate>
+                            <origPlace>Forum Southwest</origPlace>
+                            <origDate>5th c. BCE</origDate>
                         </origin>
-                        <provenance type="found"> Findspot and circumstances/context </provenance>
-                        <provenance type="observed">Modern location(s) (if different from repository, above) </provenance>
+                        <provenance type="found">Grid 68:E; thick fill above paved floor; elevation 081.408-081.088</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 151</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="photograph of text or monument"/>
+        <graphic url="https://www.jstor.org/stable/148095?seq=44"><desc>#84</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
                 <lb n="1"/>
-                Greek or Latin (etc.) text here
+                <gap reason="lost" unit="character" extent="unknown"/><unclear>α</unclear>λο<gap reason="lost" unit="character" extent="unknown"/>
                 </ab>
             </div>
-            <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
-            </div>
+            <div type="apparatus"></div>
             <div type="translation">
-                <p>translation(s)</p>
+                <p>K]ΑΛΟ[Σ = Beautiful</p>
             </div>
             <div type="commentary">
-                <p>commentary</p>
+                <p>Might be part of a Kalos inscription, or of an identifier</p>
             </div>
             <div type="bibliography">
-                <p>bibliography of previous editions, discussion, etc.</p>
+                <p>Hesperia 1987, 56.3, p. 299, Pl. 62, #84</p>
             </div>
         </body>
     </text>

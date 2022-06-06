@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Thasian Amphora with Dipinto</title>
+                <title><rs type="textType">Commercial</rs></title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -39,7 +40,7 @@
                             <origDate>4th c.</origDate>
                         </origin>
                         <provenance type="found">Good things from bad places box</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 277</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -47,7 +48,7 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="URL"/>
+        <graphic url="c-1977-288.jpeg"/>
     </facsimile>
     <text>
         <body>

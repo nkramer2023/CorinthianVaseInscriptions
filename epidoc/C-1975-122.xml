@@ -12,27 +12,22 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>The Archaeological Museum - Ancient Corinth</repository>
-                        <idno>C-1977-122</idno>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C 1977 122</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <p>
-                                        <material> Fine, hard-fired buff clay with some black discoloration from exposure </material> 
-                     
-                                        <objectType>Body fragment from a Corinthian Krater. </objectType>
-                                    </p>
+                                    <p>Three joining sherds preserving part of the rim, neck, and upper shoulder of Corinthian Krater.</p>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>3 letters</layout>
+                                <layout>One theta near lip</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote> Fine black glaze inside and out. Glaze has chipped on outer surface to the left of three red painted letters in Greek script. Height of letters: 00.002.
-                            </handNote>
+                            <handNote>Well-formed circular Ο of a theta</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -40,23 +35,21 @@
                             <origPlace>Forum Southwest</origPlace>
                             <origDate>Classical</origDate>
                         </origin>
-                        <provenance type="found"> Grid 65:C, Roadway Fill in Baulk T Elevation 080.744 080.432
-                        </provenance>
-                        <provenance type="observed"> ASCSA Museum Basement; Drawer 227 
-                        </provenance>
+                        <provenance type="found"> Grid 65:C, Roadway Fill in Baulk T; Elevation 080.744 080.432</provenance>
+                        <provenance type="observed"> ASCSA Museum Basement; Drawer 227</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://tiffanyhyunkyung.files.wordpress.com/2022/01/screen-shot-2022-01-28-at-4.05.21-pm.png?w=354"/> 
+        <graphic url="c-1975-122.jpeg"/> 
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>ΑΝΔ
+                    <lb n="1"/>θ
                 </ab>
             </div>
             <div type="apparatus">
