@@ -17,20 +17,12 @@
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
-                            <supportDesc>
-                                <support>
-                                    <p>
-                                        <material> Moderately coarse clay fired red at core, pale buff at surface, with dense amount of fine to coarser red inclusions, mica, few fine black inclusions between
-                                        5YR 6/6 and 2.5YR 6/6 (core) Ca. 2.5Y 8/3 (surface)
-                                        </material> 
-                                       
-                                        <objectType>Koan trasnport/storage amphora with nearly cylindrical upper body, steeply sloping shoulder turning into cylindrical neck, rolled rim, 
-                                        oval mouth. 2 vertical double-rolled handles rising vertically from mid shoulder and turning down slightly to upper part of neck</objectType>
-                                    </p>
-                                </support>
+               <supportDesc>
+                                <support>vase inscription (dipinto)<material/>
+                                    and <objectType/> Koan transport amphora</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Dipinto in black paint on center of neck between Handles: API Co-1370</layout>
+                                <layout>Dipinto in black paint on center of neck between handles</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,7 +33,7 @@
                     <history>
                         <origin>
                             <origPlace>Kos, Forum Southwest </origPlace>
-                            <origDate>Context archaic to 146, 100 BC + early Roman? Piece Hellenistic</origDate>
+                            <origDate>100 BCE</origDate>
                         </origin>
                         <provenance type="found"> Grid 73:A, Fill in well from -4.41 to -6.85m below east rim and from tunnel (upper fill), deposit in Well 1976-1
                         </provenance>
@@ -53,7 +45,7 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="blob:https://tiffanyhyunkyung.wordpress.com/9006d8d9-3211-4597-b305-ed45299e14f6"/> 
+        <graphic url=""/> 
     </facsimile>
     <text>
         <body>

@@ -20,8 +20,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>vase inscription (dipinto) <material/>
-                                    and <objectType/> Corinthian B transport amphora mended from several fragments <dimensions/>, etc.)</support>
+                                <support>
+                                <objectType> Corinthian B transport amphora mended from several fragments </objectType>
+                                </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>two letters</layout>
@@ -48,7 +49,9 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="http://photograph"/>
+        <graphic url="c-1978-338.jpg">
+         <desc>Dipinto.</desc>
+        </graphic>
     </facsimile>
     <text>
         <body>
@@ -57,18 +60,8 @@
                     <lb n="1"/><gap reason="illegible" quantity="1" unit="character"/>π
                 </ab>
             </div>
-            <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
-            </div>
-            <div type="translation">
-                <p>
-</p>
-            </div>
             <div type="commentary">
                 <p>As this is only two Greek letters (one illegible, one pi), perhaps it's an abbreviation?</p>
-            </div>
-            <div type="bibliography">
-                <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
     </text>

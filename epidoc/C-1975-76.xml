@@ -20,8 +20,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>vase inscription (dipinto) <material/>
-                                    and <objectType/> Corinthian B transport amphora mended from numerous fragments <dimensions/>, etc.)</support>
+                                <support>
+                                <objectType> Corinthian B transport amphora mended from numerous fragments  </objectType>
+                                </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>one-two letters</layout>
@@ -48,7 +49,9 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://corinth.ascsa.net/id/corinth/object/c%201975%2076?q=C%201975%2076amp;t=amp;v=iconsamp;sort=amp;s=1"/>
+        <graphic url="https://corinth.ascsa.net/image?type=fullamp;id=Corinth%3AImage%3Abw%201975%20073%2002">
+        <desc>Dipinto.</desc>
+           </graphic>
     </facsimile>
     <text>
         <body>
@@ -57,18 +60,11 @@
                     <lb n="1"/>ν<gap reason="illegible" quantity="1" unit="character"/>
                 </ab>
             </div>
-            <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
-            </div>
-            <div type="translation">
-                <p>
-</p>
-            </div>
             <div type="commentary">
                 <p>As this is only two Greek letters (a nu and an illegible letter), perhaps it's an abbreviation?</p>
             </div>
             <div type="bibliography">
-                <p>bibliography of previous editions, discussion, etc.</p>
+                <p>Koehler, C. G. (1981) Corinthian Developments in the Study of Trade in the Fifth Century. Hesperia 50: 454n.22.</p>
             </div>
         </body>
     </text>

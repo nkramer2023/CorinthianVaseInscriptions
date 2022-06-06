@@ -20,8 +20,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>vase inscription (dipinto) <material/>
-                                    and <objectType/> Corinthian B transport amphora mended from numerous fragments <dimensions/>, etc.)</support>
+                                <support>vase inscription (dipinto) 
+                                <objectType> Corinthian B transport amphora mended from numerous fragments </objectType>
+                                </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>one letter</layout>
@@ -48,27 +49,19 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="http://photograph"/>
+        <graphic url="c-1976-272.jpg">
+            <desc>Dipinto.</desc>
+        </graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>Κ
+                    <lb n="1"/>κ
                 </ab>
-            </div>
-            <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
-            </div>
-            <div type="translation">
-                <p>
-</p>
             </div>
             <div type="commentary">
                 <p>As this is only one Greek letter (a kappa), perhaps it's an abbreviation?</p>
-            </div>
-            <div type="bibliography">
-                <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
     </text>

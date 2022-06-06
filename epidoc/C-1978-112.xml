@@ -20,15 +20,16 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>vase inscription (dipinto) <material/>
-                                    and <objectType/> Chiot transport amphora fragment, upper part of neck with convex profile, rolled rim flattened on top. Small round letter theta in brown paint on neck. <dimensions/>, etc.)</support>
+                                <support>
+                                <objectType> Chiot transport amphora fragment, upper part of neck with convex profile, rolled rim flattened on top.</objectType>
+                                </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>Single letter in brown paint on neck. </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>
+                            <handNote>Dipinto in brown paint: theta
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -47,26 +48,22 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="http://photograph"/>
+        <graphic url="c-1978-112.jpg">
+         <desc>Dipinto.</desc>
+        </graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>Θ
+                    <lb n="1"/>θ
                 </ab>
-            </div>
-            <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
-            </div>
-            <div type="translation">
-                <p></p>
             </div>
             <div type="commentary">
                 <p>As this is only the Greek letter theta, perhaps it's an abbreviation?</p>
             </div>
-            <div type="bibliography">
-                <p>bibliography of previous editions, discussion, etc.</p>
+             <div type="bibliography">
+                <p>	Bookidis, N. and C. K. Williams (2003) Corinth, the centenary 1896-1996. Corinth 20. Princeton: 198n.29</p>
             </div>
         </body>
     </text>

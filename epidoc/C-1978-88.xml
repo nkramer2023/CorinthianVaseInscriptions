@@ -20,15 +20,16 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>vase inscription (dipinto) <material/>
-                                    and <objectType/> Corinthian type B amphora with shoulders sloping into a cylindrical neck with straight flaring rim, flat on top, and oval mouth. Two vertical handles, flat oval in section, attached below rim. Dipinto in red paint on neck between the two handles. <dimensions/>, etc.)</support>
+                                <support>
+                                <objectType> Corinthian type B amphora with shoulders sloping into a cylindrical neck with straight flaring rim, flat on top, and oval mouth. Two vertical handles, flat oval in section, attached below rim.</objectType>
+                                </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>Single letter with possible ligature in red paint on neck between the two handles. </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>
+                            <handNote>dipinto in red paint: possible ligature of phi and epsilon
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -47,20 +48,16 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="http://photograph"/>
+        <graphic url="c-1978-88.jpg">
+   <desc>Dipinto.</desc>
+        </graphic>      
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>Ε
+                    <lb n="1"/><hi rend="ligature">φε</hi>
                 </ab>
-            </div>
-            <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
-            </div>
-            <div type="translation">
-                <p></p>
             </div>
             <div type="commentary">
                 <p>As this is only the Greek letter episilon with a possible ligature, perhaps it's an abbreviation?</p>

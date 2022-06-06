@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fragment with dipinto</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>ASCSA Corinth</repository>
+                        <idno>C 1963 538</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>fragment, broken on all sides, of joint of neck to body with trace of handle joint, wheel marks inside and outside</objectType>
+                                    </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>one letter</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>dipinto in red paint: eta
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Corinth Forum</origPlace>
+                            <origDate></origDate>
+                        </origin>
+                        <provenance type="found"> Corinth Forum area
+                        </provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 273
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="c-1963-538.jpg">
+         <desc>Dipinto.</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                       <lb n="1"/>η
+                </ab>
+            </div>
+            <div type="commentary">
+                <p>As this is only one Greek letter, perhaps it's an abbreviation?</p>
+            </div>
+        </body>
+    </text>
+</TEI>

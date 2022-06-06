@@ -20,8 +20,8 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>vase inscription (dipinto) <material/>
-                                    and <objectType/> Sherd broken on all sides <dimensions/>, etc.)</support>
+                                <support>
+                                <objectType> Sherd of yellow-white clay broken on all sides </objectType> </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>one letter</layout>
@@ -37,7 +37,7 @@
                             <origPlace>Corinth Forum Southwest</origPlace>
                             <origDate></origDate>
                         </origin>
-                        <provenance type="found"> South area; red fill east of wall #22; pockets of rubble in floor at 85.773
+                        <provenance type="found"> South area; red fill east of wall #22; pockets of rubble in floor at 85.773 meters; basket #13
                         </provenance>
                         <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 273
                         </provenance>
@@ -48,27 +48,19 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://corinth.ascsa.net/image?type=full&amp;id=Corinth%3AImage%3Abw%201968%20005%2015"/>
+        <graphic url="c-1963-544.jpg">
+   <desc>Dipinto.</desc>
+        </graphic>      
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>Β
+                    <lb n="1"/>β
                 </ab>
-            </div>
-            <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
-            </div>
-            <div type="translation">
-                <p>
-</p>
             </div>
             <div type="commentary">
                 <p>As this is only one Greek letter (a beta), perhaps it's an abbreviation?</p>
-            </div>
-            <div type="bibliography">
-                <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
     </text>
