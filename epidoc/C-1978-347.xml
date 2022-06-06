@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Transport amphora with dipinto and graffito(?)</title>
+                <title>Transport amphora with dipinto</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -20,15 +20,16 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>vase inscription (dipinto and graffito) <material/>
-                                    and <objectType/> North Aegean transport amphora mended from two joining fragments <dimensions/>, etc.)</support>
+                                <support>
+                                <objectType> North Aegean transport amphora mended from two joining fragments </objectType>
+                              </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>one to two letters</layout>
+                                <layout>one letter on base of neck</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>dipinto in red paint on base of neck: Η; possible graffito on shoulder: one vertical stroke
+                            <handNote>dipinto in red paint: eta
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -48,27 +49,19 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://photo"/>
+        <graphic url="c-1978-347.jpg">
+   <desc>Dipinto.</desc>
+        </graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>Η
+                    <lb n="1"/>η
                 </ab>
             </div>
-            <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
-            </div>
-            <div type="translation">
-                <p>
-</p>
-            </div>
             <div type="commentary">
-                <p>As this is only one or two Greek letters (eta and possibly iota), perhaps it's an abbreviation?</p>
-            </div>
-            <div type="bibliography">
-                <p>bibliography of previous editions, discussion, etc.</p>
+                <p>As this is only one Greek letter (eta), perhaps it's an abbreviation? In addition, a vertical stroke on the shoulder appears to be merely a scratch rather than a graffito.</p>
             </div>
         </body>
     </text>

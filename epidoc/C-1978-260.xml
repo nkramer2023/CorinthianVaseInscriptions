@@ -20,8 +20,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>vase inscription (dipinto) <material/>
-                                    and <objectType/> Four joining fragments preserving neck to rim <dimensions/>, etc.)</support>
+                                <support>
+                                <objectType> Four joining fragments preserving neck to rim, approximately one-fifth of whole circumference</objectType>
+                                </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>one letter</layout>
@@ -48,27 +49,22 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://corinth.ascsa.net/image?type=full&amp;id=Corinth%3AImage%3Abw%201979%20003%2037"/>
+        <graphic url="c-1978-260.jpg">
+        <desc>Dipinto.</desc>
+        </graphic>
+        <graphic url="c-1978-260-2.jpg">
+        <desc>Close-up showing chip on bottom crossbar of dipinto.</desc>
+        </graphic>      
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>Ξ
+                    <lb n="1"/>ξ
                 </ab>
             </div>
-            <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
-            </div>
-            <div type="translation">
-                <p>
-</p>
-            </div>
             <div type="commentary">
-                <p>As this is only one Greek letter (a xi), perhaps it's an abbreviation?</p>
-            </div>
-            <div type="bibliography">
-                <p>bibliography of previous editions, discussion, etc.</p>
+                <p>As this is only one Greek letter (a xi), perhaps it's an abbreviation? In addition, it appears that the bottom crossbar of the letter xi has been chipped and is no longer fully extant.</p>
             </div>
         </body>
     </text>

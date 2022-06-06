@@ -20,8 +20,9 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>vase inscription (dipinto) <material/>
-                                    and <objectType/> Corinthian B transport amphora mended from 10 joining fragments <dimensions/>, etc.)</support>
+                                <support>
+                                <objectType> Corinthian B transport amphora mended from 10 joining fragments comprising most of the neck and rim. </objectType>
+                                </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>one letter</layout>
@@ -48,27 +49,19 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://corinth.ascsa.net/image?type=full&amp;id=Corinth%3AImage%3Abw%201979%20007%2002"/>
+        <graphic url="c-1978-257.jpg">
+            <desc>Dipinto.</desc>
+        </graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>Β
+                    <lb n="1"/>β
                 </ab>
-            </div>
-            <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
-            </div>
-            <div type="translation">
-                <p>
-</p>
             </div>
             <div type="commentary">
                 <p>As this is only one Greek letter (beta), perhaps it's an abbreviation?</p>
-            </div>
-            <div type="bibliography">
-                <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
     </text>
