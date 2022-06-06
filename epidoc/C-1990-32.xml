@@ -5,11 +5,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>C 1990 32</title>
+                <title>Amphora with Dipinto</title>
+                <title><rs type="textType">Commercial</rs></title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
-                    <idno type="filename">C 1990 32</idno>
+                    <idno type="filename"/>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -22,12 +23,6 @@
                         <supportDesc>
                             <support>
                                 <p>Convex wall of amphora from about middle of the wall</p>
-                                <material>moderately fine pinkish-buff clay</material>\
-                                <objectType>amphora</objectType>
-                                <dimensions>
-                                    <height>.117</height>
-                                    <width>.118</width>
-                                </dimensions>
                             </support>
                         </supportDesc>
                         <layoutDesc>
@@ -40,14 +35,10 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Attica</origPlace>
+                            <origPlace>Forum Southwest</origPlace>
                             <origDate>1st century CE</origDate>
                         </origin>
-                        <provenance type="found">
-                            <p>Forum Southwest</p>
-                            <p>South foundation trench of South Tower of West Shops</p>
-                            <p>Grid 74:C</p>
-                        </provenance>
+                        <provenance type="found">South foundation trench of South Tower of West Shops; Grid 74:C; Elevation 083.025-082.327</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>

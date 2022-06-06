@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Storage Pithos with Graffito</title>
+                <title><rs type="textType">Commercial</rs></title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -15,7 +16,7 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C-1977-117</idno>
+                        <idno>C 1977 117</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>

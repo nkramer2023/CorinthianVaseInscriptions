@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Wing Amphora Rim with Graffito</title>
+                <title><rs type="textType">Graffito</rs></title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -53,7 +54,7 @@
         <body>
             <div type="edition" xml:space="preserve">
                 <p>
-                    <lb n="1"/>λ <space extent="2" unit="character"/>χ<unclear>c</unclear>α
+                    <lb n="1"/>λ<space extent="2" unit="character"/>χ<unclear>c</unclear>α
                 </p>
             </div>
             <div type="apparatus"><p></p></div>

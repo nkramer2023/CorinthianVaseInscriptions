@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Arretine Cup Haltern 8 with Stamp and Graffito</title>
+                <title><rs type="textType">Ownership</rs></title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -39,7 +40,7 @@
                             <origDate>Early Roman, 1st c. CE</origDate>
                         </origin>
                         <provenance type="found">Grid 64:B; Roman Road Level; Elevation 082.075-081.482</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 8</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -47,8 +48,8 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="C-1979-21.JPG"/>
-        <graphic url="C-1979-21-2.jpeg"/>
+        <graphic url="C-1979-21.JPG"><desc>Graffito</desc></graphic>
+        <graphic url="C-1979-21-2.jpeg"><desc>Stamp</desc></graphic>
     </facsimile>
     <text>
         <body>

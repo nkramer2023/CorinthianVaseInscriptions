@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Attic Kantharos Foot with Graffito</title>
+                <title><rs type="textType">Ownership</rs></title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -39,7 +40,7 @@
                             <origDate>4th c. BCE</origDate>
                         </origin>
                         <provenance type="found">Grid 50:C; Dumped Fill in Cistern 1979-1l 080.153-081.002</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 266</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>

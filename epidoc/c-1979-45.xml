@@ -39,7 +39,7 @@
                             <origDate>Unknown</origDate>
                         </origin>
                        <provenance type="found">Grid 65:E 66:E; Road Fill; 080.742-080.571</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Bay 54; Shelf 3</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -62,7 +62,7 @@
                 <ab></ab>
             </div>
             <div type="commentary">
-                <ab>The letters form no known word, so they might be a grouping of abbreviations. It is also possible either our interpretations of the letters are incorrect or the letters themselves were written in a hand unrecognizable even to contemporaries.</ab>
+                <p>The letters form no known word, so they might be a grouping of abbreviations. It is also possible either our interpretations of the letters are incorrect or the letters themselves were written in a hand unrecognizable even to contemporaries.</p>
             </div>
             <div type="bibliography"><ab></ab></div>
         </body>

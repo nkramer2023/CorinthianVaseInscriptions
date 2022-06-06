@@ -22,7 +22,6 @@
                             <supportDesc>
                                 <support>
                                 <p>Single fragment, broken all aorund.</p>
-                                    <material/><objectType/><dimensions/>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -30,7 +29,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Three lines of letters: 5, 4, 2. Possible lunate gamma and digamma. </handNote>
+                            <handNote>Three lines of letters: 5, 4, 2 (letters). Possible lunate gamma and digamma. </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -39,7 +38,7 @@
                             <origDate>Early Roman</origDate>
                         </origin>
                        <provenance type="found">Grid 50:C 49:C; Destruction Debris over Floor in Room behind Storeroom XXI; Elevation 082.070-081.837 (m)</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 277</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>

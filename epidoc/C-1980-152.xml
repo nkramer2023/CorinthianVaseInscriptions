@@ -5,51 +5,43 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>C 1980 152</title>
+                <title>Transport Amphora with Dipinto</title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
-                    <idno type="filename">C 1980 152</idno>
+                    <idno type="filename"/>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>The Archaeological Museum - Ancient Corinth</repository>
+                        <repository>ASCSA Coritnh</repository>
                             <idno>C 1980 152</idno>
                     </msIdentifier>
                     <physDesc>
                     <objectDesc>
                         <supportDesc>
                             <support>
-                               <p>Fragment of shoulder, start of curve for neck</p>
-                                <material>porous, moderately fine clay</material>
-                                <objectType>transport amphora</objectType>
-                                <dimensions>
-                                    <width>.040</width>
-                                    <depth>.053</depth>
-                                </dimensions>
+                               Signle fragment of a transport amphora
                             </support>
                         </supportDesc>
                         <layoutDesc>
-                            <layout/>
+                            <layout>
+                              Two lines of dipinto text
+                            </layout>
                         </layoutDesc>
                     </objectDesc>
                     <handDesc>
                         <handNote>
-                            <desc>Dipinto in dull red paint</desc>
+                            
                         </handNote>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Unkown, probably Corinth</origPlace>
+                            <origPlace>Forum Northeast</origPlace>
                             <origDate>Early Roman to earlier</origDate>
                         </origin>
-                        <provenance type="found">\
-                            <p>Forum Northeast</p>
-                            <p>Mummian cleanup under Roman Paving</p>
-                            <p>Grid No.: 40:AB</p>
-                        </provenance>
+                        <provenance type="found">Mummian cleanup under Roman Paving; Grid No.: 40:AB; Elevation 077.670-077.270</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -63,9 +55,9 @@
             <div type="edition" xml:space="preserve">
                 <ab>
                 <lb n="1"/>
-                COC
+                coc
                 <lb n="2"/>
-                    <gap reason="lost" quantity="1" unit="character"/>PO<gap reason="lost" quantity="1" unit="character"/>
+                    <gap reason="lost" quantity="1" unit="character"/><unclear>u</unclear>po<unclear>n</unclear><gap reason="lost" quantity="1" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

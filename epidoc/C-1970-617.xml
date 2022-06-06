@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Inscribed Articulated Kantharos</title>
+                <title><rs type="textType">Graffito</rs></title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -39,14 +40,16 @@
                             <origDate>Hellenistic</origDate>
                         </origin>
                         <provenance type="found">Good Things From Bad Places</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 31</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ascsa.net/id/corinth/image/bw%202000%20056%2001?q=C%201970%20617&amp;t=&amp;v=list&amp;sort=&amp;s=1"/>
+        <graphic url="https://ascsa.net/id/corinth/image/bw%202000%20056%2001?q=C%201970%20617&amp;t=&amp;v=list&amp;sort=&amp;s=1">
+            <desc>Graffito</desc>
+        </graphic>
     </facsimile>
     <text>
         <body>

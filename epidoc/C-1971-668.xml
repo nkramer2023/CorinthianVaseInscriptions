@@ -5,11 +5,11 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>C 1971 668</title>
+                <title>Cooking Fabric Small Amphora</title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
-                    <idno type="filename">C 1971 668</idno>
+                    <idno type="filename"/>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -22,12 +22,9 @@
                         <supportDesc>
                             <support>
                                 <p>Neck and shoulder of a cooking amphora</p>
-                                <material>Hard cooking clay</material>
-                                <objectType>Small Amphora</objectType>
-                                <dimensions>
-                                    <height>.15</height>
-                                    <dim type="diameter">.065</dim>
-                                </dimensions>
+                                <material/>
+                                <objectType/>
+                                <dimensions/>
                             </support>
                         </supportDesc>
                         <layoutDesc>
@@ -40,12 +37,11 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Macedonia</origPlace>
-                            <origDate>mid-3rd century BCE</origDate>
+                            <origPlace>Corinth Forum Southwest</origPlace>
+                            <origDate>Mid-3rd c. BCE</origDate>
                         </origin>
-                        <provenance type="found">
-                            <p>Forum Southwest</p><p>Pottery deposit in drain east of Building II, east wall</p><p>Grid Nos.: 54:K 55:L</p><p>Deposit Name: Drain 1971-001</p>
-                        </provenance>
+                        <provenance type="found">Grid 54:K 55:L; Pottery deposit in drain east of Building II' Drain 1971-001; Elevation 078.739-078.109 (m)</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Bay 45; Shelf 5</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>

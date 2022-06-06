@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Amphora Handle</title>
+                <title><rs type="textType">Graffito</rs></title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -39,7 +40,7 @@
                             <origDate>Unknown</origDate>
                         </origin>
                        <provenance type="found">Well</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer 275</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>

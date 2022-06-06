@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Oinochoe Shoulder Fragment with Graffito</title>
+                <title><rs type="textType">Graffito</rs></title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
@@ -15,7 +16,7 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                            <idno>C-1970-167</idno>
+                            <idno>C 1970 167</idno>
                     </msIdentifier>
                     <physDesc>
                     <objectDesc>
@@ -44,14 +45,14 @@
                             <origDate>Unknown</origDate>
                         </origin>
                         <provenance type="found">3 meters North of poros steps of phase 2 of Sacred Spring; Elevation 75.37-.33</provenance>
-                        <provenance type="observed">ASCSA Corinth Basement</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Bay 93; Shelf 4</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/fp1ZsfV"/>
+        <graphic url="c-1970-167.jpeg"><desc>Graffito</desc></graphic>
     </facsimile>
     <text>
         <body>

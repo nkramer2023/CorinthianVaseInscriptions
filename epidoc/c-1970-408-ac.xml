@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Attic Sessile Kantharos with Low Handles, Stamped Decoration, and Graffito (fragments)</title>
+                <title><rs type="textType">Graffito</rs></title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -39,7 +40,7 @@
                             <origDate>Unknown</origDate>
                         </origin>
                        <provenance type="found">Trench 4 North, Well 1</provenance>
-                        <provenance type="observed">ASCSA Corinth Museum Basement; Drawer #</provenance>
+                        <provenance type="observed">ASCSA Corinth Museum Basement; Bay 43; Shelf 6</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>

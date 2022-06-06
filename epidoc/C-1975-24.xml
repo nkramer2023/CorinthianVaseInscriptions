@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Fragment Arretine Plate with Graffito</title>
+                <title><rs type="textType">Ownership</rs></title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -47,7 +48,7 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="C-1975-24.JPG"/>
+        <graphic url="c-1975-24.JPG"/>
     </facsimile>
     <text>
         <body>

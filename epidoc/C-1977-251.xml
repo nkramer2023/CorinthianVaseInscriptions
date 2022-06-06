@@ -5,11 +5,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>C 1977 251</title>
+                <title>Pitcher Shoulder with Dipinto</title>
+                <title><rs type="textType">Ownership</rs></title>
             </titleStmt>
             <publicationStmt>
                 <authority/>
-                    <idno type="filename">C 1977 251</idno>
+                    <idno type="filename"/>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -21,13 +22,10 @@
                     <objectDesc>
                         <supportDesc>
                             <support>
-                                <p>Fragment from near the top of a flat sloping shoulder</p>
-                                    <objectType>pitcher</objectType>
-                                <material>fine, loosely compacted soft pink fabric with some tiny sparkling inclusions</material>
-                                <dimensions>
-                                    <height>.025</height>
-                                    <width>.045</width>
-                                </dimensions>
+                                Fragment from near the top of a flat sloping shoulder of a pitcher
+                                <objectType/>
+                                <material/>
+                                <dimensions/>
                             </support>
                         </supportDesc>
                         <layoutDesc>
@@ -35,19 +33,15 @@
                         </layoutDesc>
                     </objectDesc>
                     <handDesc>
-                        <handNote/>
+                        <handNote>Single letter dipinto</handNote>
                     </handDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>Unknown, probably Corinth</origPlace>
+                            <origPlace>Forum Southwest</origPlace>
                             <origDate>5th century BCE</origDate>
                         </origin>
-                        <provenance type="found">
-                            <p>Forum Southwest</p>
-                            <p>Building V, amphora packing against East-West stone drain</p>
-                            <p>Grid Nos.: 69-70:C</p>
-                        </provenance>
+                        <provenance type="found">Building V, amphora packing against East-West stone drain; Grid Nos.: 69-70:C</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>

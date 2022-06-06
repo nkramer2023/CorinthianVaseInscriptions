@@ -15,7 +15,7 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>ASCSA Corinth</repository>
-                        <idno>C-1963-65</idno>
+                        <idno>C 1963 65</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
@@ -27,7 +27,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Stamp on the foot, and etched graffito on the base.</handNote>
+                            <handNote>Etched Alpha on interior base, five Latin letters of stamp, one of which (N) is written in reverse (И) </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -43,7 +43,8 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://ibb.co/Kz1vY5Y"/>
+        <graphic url="c-1963-65.jpeg"><desc>Stamp</desc></graphic>
+        <graphic url="c-1963-65-1.jpeg"><desc>Graffito</desc></graphic>
         <graphic url="https://ibb.co/Jj5c1bM"/>
     </facsimile>
     <text>
@@ -51,7 +52,7 @@
             <div type="edition" xml:space="preserve">
                 <ab>
                    <lb n="1"/>
-                   CORIN
+                   CORI<hi rend="reversed">N</hi>
                    <lb n="2"/>
                     A
                 </ab>
@@ -61,7 +62,7 @@
             <div type="translation">
             </div>
             <div type="commentary">
-                <p>Backwards Nu/N</p>
+                <p>Stamp might be of a local Corinthian potter.</p>
             </div>
             <div type="bibliography">
             </div>
